@@ -1,0 +1,26 @@
+a span{
+  text-transform: uppercase;
+  color: #1BBD36;
+}
+
+h1 span{
+  text-transform: uppercase;
+  color: #1BBD36;
+}
+
+header#default {
+  margin-bottom: 50px;
+}
+
+li a:hover, a.dropdown-item:hover
+{
+  background-color: #1BBD36;
+  color: #F2F7F7;
+}
+
+a {
+  text-decoration: none;
+  color: #9DD2C9;
+  font-size: 1.2em;
+  font-weight: 600;
+}

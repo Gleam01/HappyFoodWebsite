@@ -1,0 +1,866 @@
+Oct  1 01:30:57 10.71.53.15 u94763773 Connection from 10.71.53.15 port 12074 on 66.175.239.14 port 22
+Oct  1 01:31:07 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 12074 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:31:09 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 12074 ssh2
+Oct  1 01:36:11 10.71.53.15 u94763773 Connection from 10.71.53.15 port 13300 on 66.175.239.14 port 22
+Oct  1 01:36:13 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 13300 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:36:16 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 13300 ssh2
+Oct  1 01:36:27 10.71.53.15 u94763773 Connection from 10.71.53.15 port 18924 on 66.175.239.14 port 22
+Oct  1 01:36:29 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 18924 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:36:32 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 18924 ssh2
+Oct  1 01:37:39 10.71.53.15 u94763773 Connection from 10.71.53.15 port 43708 on 66.175.239.14 port 22
+Oct  1 01:37:43 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 43708 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:37:46 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 43708 ssh2
+Oct  1 01:38:29 10.71.53.15 u94763773 Connection from 10.71.53.15 port 62060 on 66.175.239.14 port 22
+Oct  1 01:38:33 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 62060 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:38:36 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 62060 ssh2
+Oct  1 01:38:42 10.71.53.15 u94763773 Connection from 10.71.53.15 port 11986 on 66.175.239.14 port 22
+Oct  1 01:38:45 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 11986 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:38:48 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 11986 ssh2
+Oct  1 01:38:55 10.71.53.15 u94763773 Connection from 10.71.53.15 port 16140 on 66.175.239.14 port 22
+Oct  1 01:38:59 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 16140 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 01:39:02 10.71.53.15 u94763773 Failed password for u94763773 from 10.71.53.15 port 16140 ssh2
+Oct  1 04:34:39 10.71.55.13 u94763773 Connection from 10.71.55.13 port 23520 on 66.175.239.14 port 22
+Oct  1 04:34:49 10.71.55.13 u94763773 Failed password for u94763773 from 10.71.55.13 port 23520 ssh2
+Oct  1 04:36:40 10.71.55.13 u94763773 Connection from 10.71.55.13 port 14042 on 66.175.239.14 port 22
+Oct  1 04:36:43 10.71.55.13 u94763773 Accepted password for u94763773 from 10.71.55.13 port 14042 ssh2
+Oct  1 04:36:44 10.71.55.13 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.55.13 port 14042
+Oct  1 04:36:44 10.71.55.13 u94763773 session opened for local user u94763773 from [10.71.55.13]
+Oct  1 04:37:11 10.71.55.13 u94763773 session closed for local user u94763773 from [10.71.55.13]
+Oct  1 04:37:11 10.71.55.13 u94763773 Connection closed by 10.71.55.13
+Oct  1 04:39:19 10.71.53.15 u94763773 Connection from 10.71.53.15 port 35022 on 66.175.239.14 port 22
+Oct  1 04:39:27 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 35022 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:39:27 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 35022 ssh2
+Oct  1 04:39:29 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 35022
+Oct  1 04:39:29 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:45:22 10.71.53.15 u94763773 Connection from 10.71.53.15 port 41564 on 66.175.239.14 port 22
+Oct  1 04:45:25 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 41564 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:45:29 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 41564 ssh2
+Oct  1 04:45:30 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 41564
+Oct  1 04:45:30 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:45:36 10.71.53.15 u94763773 open "/contact.php" flags READ mode 0666
+Oct  1 04:45:40 10.71.53.15 u94763773 close "/contact.php" bytes read 5607 written 0
+Oct  1 04:45:40 10.71.53.15 u94763773 [10.71.53.15|get|4|5607|0|0|0|2f636f6e746163742e706870|]
+Oct  1 04:46:41 10.71.53.15 u94763773 Connection closed by 10.71.53.15
+Oct  1 04:46:41 10.71.53.15 u94763773 session closed for local user u94763773 from [10.71.53.15]
+Oct  1 04:48:24 10.71.53.15 u94763773 Connection from 10.71.53.15 port 43014 on 66.175.239.14 port 22
+Oct  1 04:48:27 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 43014 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:48:24 10.71.53.15 u94763773 Connection from 10.71.53.15 port 43012 on 66.175.239.14 port 22
+Oct  1 04:48:27 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 43012 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:48:28 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 43012 ssh2
+Oct  1 04:48:28 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 43014 ssh2
+Oct  1 04:48:29 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 43012
+Oct  1 04:48:29 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 43014
+Oct  1 04:48:29 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:48:29 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:48:38 10.71.53.15 u94763773 open "/contactform/readme.txt" flags READ mode 0666
+Oct  1 04:48:38 10.71.53.15 u94763773 open "/contactform/contactform.js" flags READ mode 0666
+Oct  1 04:48:41 10.71.53.15 u94763773 close "/contactform/contactform.js" bytes read 3280 written 0
+Oct  1 04:48:41 10.71.53.15 u94763773 [10.71.53.15|get|3|3280|0|0|0|2f636f6e74616374666f726d2f636f6e74616374666f726d2e6a73|]
+Oct  1 04:48:41 10.71.53.15 u94763773 close "/contactform/readme.txt" bytes read 134 written 0
+Oct  1 04:48:41 10.71.53.15 u94763773 [10.71.53.15|get|3|134|0|0|0|2f636f6e74616374666f726d2f726561646d652e747874|]
+Oct  1 04:48:52 10.71.53.15 u94763773 open "/css/bootstrap.min.css" flags READ mode 0666
+Oct  1 04:48:52 10.71.53.15 u94763773 open "/css/bootstrap.css.map" flags READ mode 0666
+Oct  1 04:48:55 10.71.53.15 u94763773 close "/css/bootstrap.min.css" bytes read 113498 written 0
+Oct  1 04:48:55 10.71.53.15 u94763773 [10.71.53.15|get|3|113498|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Oct  1 04:48:56 10.71.53.15 u94763773 close "/css/bootstrap.css.map" bytes read 366144 written 0
+Oct  1 04:48:56 10.71.53.15 u94763773 [10.71.53.15|get|4|366144|0|0|0|2f6373732f626f6f7473747261702e6373732e6d6170|]
+Oct  1 04:48:57 10.71.53.15 u94763773 open "/css/bootstrap.css" flags READ mode 0666
+Oct  1 04:48:59 10.71.53.15 u94763773 open "/css/style1.css" flags READ mode 0666
+Oct  1 04:48:59 10.71.53.15 u94763773 close "/css/bootstrap.css" bytes read 137067 written 0
+Oct  1 04:48:59 10.71.53.15 u94763773 [10.71.53.15|get|2|137067|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Oct  1 04:49:01 10.71.53.15 u94763773 close "/css/style1.css" bytes read 41463 written 0
+Oct  1 04:49:01 10.71.53.15 u94763773 [10.71.53.15|get|2|41463|0|0|0|2f6373732f7374796c65312e637373|]
+Oct  1 04:49:01 10.71.53.15 u94763773 open "/css/style.css" flags READ mode 0666
+Oct  1 04:49:02 10.71.53.15 u94763773 open "/css/responsive.css" flags READ mode 0666
+Oct  1 04:49:03 10.71.53.15 u94763773 close "/css/style.css" bytes read 21320 written 0
+Oct  1 04:49:03 10.71.53.15 u94763773 [10.71.53.15|get|2|21320|0|0|0|2f6373732f7374796c652e637373|]
+Oct  1 04:49:03 10.71.53.15 u94763773 close "/css/responsive.css" bytes read 5698 written 0
+Oct  1 04:49:03 10.71.53.15 u94763773 [10.71.53.15|get|1|5698|0|0|0|2f6373732f726573706f6e736976652e637373|]
+Oct  1 04:49:04 10.71.53.15 u94763773 open "/css/prettyPhoto.css" flags READ mode 0666
+Oct  1 04:49:05 10.71.53.15 u94763773 open "/css/nivo-slider-theme.css" flags READ mode 0666
+Oct  1 04:49:06 10.71.53.15 u94763773 close "/css/prettyPhoto.css" bytes read 19888 written 0
+Oct  1 04:49:06 10.71.53.15 u94763773 [10.71.53.15|get|2|19888|0|0|0|2f6373732f70726574747950686f746f2e637373|]
+Oct  1 04:49:06 10.71.53.15 u94763773 close "/css/nivo-slider-theme.css" bytes read 7679 written 0
+Oct  1 04:49:06 10.71.53.15 u94763773 [10.71.53.15|get|1|7679|0|0|0|2f6373732f6e69766f2d736c696465722d7468656d652e637373|]
+Oct  1 04:49:08 10.71.53.15 u94763773 open "/css/font-awesome.min.css" flags READ mode 0666
+Oct  1 04:49:08 10.71.53.15 u94763773 open "/css/font-awesome.css" flags READ mode 0666
+Oct  1 04:49:09 10.71.53.15 u94763773 close "/css/font-awesome.min.css" bytes read 17780 written 0
+Oct  1 04:49:09 10.71.53.15 u94763773 [10.71.53.15|get|1|17780|0|0|0|2f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Oct  1 04:49:10 10.71.53.15 u94763773 close "/css/font-awesome.css" bytes read 21658 written 0
+Oct  1 04:49:10 10.71.53.15 u94763773 [10.71.53.15|get|2|21658|0|0|0|2f6373732f666f6e742d617765736f6d652e637373|]
+Oct  1 04:49:11 10.71.53.15 u94763773 open "/css/bootstrap-theme.min.css" flags READ mode 0666
+Oct  1 04:49:12 10.71.53.15 u94763773 open "/css/bootstrap-theme.css.map" flags READ mode 0666
+Oct  1 04:49:13 10.71.53.15 u94763773 close "/css/bootstrap-theme.min.css" bytes read 19835 written 0
+Oct  1 04:49:13 10.71.53.15 u94763773 [10.71.53.15|get|2|19835|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6d696e2e637373|]
+Oct  1 04:49:14 10.71.53.15 u94763773 close "/css/bootstrap-theme.css.map" bytes read 43029 written 0
+Oct  1 04:49:14 10.71.53.15 u94763773 [10.71.53.15|get|2|43029|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6373732e6d6170|]
+Oct  1 04:49:15 10.71.53.15 u94763773 open "/css/bootstrap-theme.css" flags READ mode 0666
+Oct  1 04:49:16 10.71.53.15 u94763773 open "/css/animate.min.css" flags READ mode 0666
+Oct  1 04:49:17 10.71.53.15 u94763773 close "/css/bootstrap-theme.css" bytes read 22474 written 0
+Oct  1 04:49:17 10.71.53.15 u94763773 [10.71.53.15|get|2|22474|0|0|0|2f6373732f626f6f7473747261702d7468656d652e637373|]
+Oct  1 04:49:18 10.71.53.15 u94763773 close "/css/animate.min.css" bytes read 57094 written 0
+Oct  1 04:49:18 10.71.53.15 u94763773 [10.71.53.15|get|2|57094|0|0|0|2f6373732f616e696d6174652e6d696e2e637373|]
+Oct  1 04:49:19 10.71.53.15 u94763773 open "/css/animate.css" flags READ mode 0666
+Oct  1 04:49:21 10.71.53.15 u94763773 close "/css/animate.css" bytes read 61382 written 0
+Oct  1 04:49:21 10.71.53.15 u94763773 [10.71.53.15|get|2|61382|0|0|0|2f6373732f616e696d6174652e637373|]
+Oct  1 04:49:22 10.71.53.15 u94763773 open "/device-mockups/device-mockups2.min.css" flags READ mode 0666
+Oct  1 04:49:24 10.71.53.15 u94763773 close "/device-mockups/device-mockups2.min.css" bytes read 23752 written 0
+Oct  1 04:49:24 10.71.53.15 u94763773 [10.71.53.15|get|2|23752|0|0|0|2f6465766963652d6d6f636b7570732f6465766963652d6d6f636b757073322e6d696e2e637373|]
+Oct  1 04:49:26 10.71.53.15 u94763773 open "/device-mockups/device-mockups2.css" flags READ mode 0666
+Oct  1 04:49:26 10.71.53.15 u94763773 open "/device-mockups/device-mockups.min.css" flags READ mode 0666
+Oct  1 04:49:28 10.71.53.15 u94763773 close "/device-mockups/device-mockups2.css" bytes read 28027 written 0
+Oct  1 04:49:28 10.71.53.15 u94763773 [10.71.53.15|get|2|28027|0|0|0|2f6465766963652d6d6f636b7570732f6465766963652d6d6f636b757073322e637373|]
+Oct  1 04:49:29 10.71.53.15 u94763773 close "/device-mockups/device-mockups.min.css" bytes read 17157 written 0
+Oct  1 04:49:29 10.71.53.15 u94763773 [10.71.53.15|get|3|17157|0|0|0|2f6465766963652d6d6f636b7570732f6465766963652d6d6f636b7570732e6d696e2e637373|]
+Oct  1 04:49:30 10.71.53.15 u94763773 open "/device-mockups/device-mockups.css" flags READ mode 0666
+Oct  1 04:49:32 10.71.53.15 u94763773 close "/device-mockups/device-mockups.css" bytes read 20512 written 0
+Oct  1 04:49:32 10.71.53.15 u94763773 [10.71.53.15|get|2|20512|0|0|0|2f6465766963652d6d6f636b7570732f6465766963652d6d6f636b7570732e637373|]
+Oct  1 04:49:32 10.71.53.15 u94763773 open "/device-mockups/apple_watch/edition/rose.png" flags READ mode 0666
+Oct  1 04:49:35 10.71.53.15 u94763773 close "/device-mockups/apple_watch/edition/rose.png" bytes read 87857 written 0
+Oct  1 04:49:35 10.71.53.15 u94763773 [10.71.53.15|get|3|87857|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f65646974696f6e2f726f73652e706e67|]
+Oct  1 04:49:36 10.71.53.15 u94763773 open "/device-mockups/apple_watch/edition/gold.png" flags READ mode 0666
+Oct  1 04:49:41 10.71.53.15 u94763773 close "/device-mockups/apple_watch/edition/gold.png" bytes read 80980 written 0
+Oct  1 04:49:41 10.71.53.15 u94763773 [10.71.53.15|get|5|80980|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f65646974696f6e2f676f6c642e706e67|]
+Oct  1 04:49:43 10.71.53.15 u94763773 open "/device-mockups/apple_watch/sport/white.png" flags READ mode 0666
+Oct  1 04:50:00 10.71.53.15 u94763773 open "/device-mockups/apple_watch/sport/red.png" flags READ mode 0666
+Oct  1 04:50:01 10.71.53.15 u94763773 close "/device-mockups/apple_watch/sport/white.png" bytes read 39404 written 0
+Oct  1 04:50:01 10.71.53.15 u94763773 [10.71.53.15|get|18|39404|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f73706f72742f77686974652e706e67|]
+Oct  1 04:50:02 10.71.53.15 u94763773 close "/device-mockups/apple_watch/sport/red.png" bytes read 41283 written 0
+Oct  1 04:50:02 10.71.53.15 u94763773 [10.71.53.15|get|2|41283|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f73706f72742f7265642e706e67|]
+Oct  1 04:50:03 10.71.53.15 u94763773 open "/device-mockups/apple_watch/sport/green.png" flags READ mode 0666
+Oct  1 04:50:04 10.71.53.15 u94763773 open "/device-mockups/apple_watch/sport/blue.png" flags READ mode 0666
+Oct  1 04:50:05 10.71.53.15 u94763773 close "/device-mockups/apple_watch/sport/green.png" bytes read 40335 written 0
+Oct  1 04:50:05 10.71.53.15 u94763773 [10.71.53.15|get|2|40335|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f73706f72742f677265656e2e706e67|]
+Oct  1 04:50:06 10.71.53.15 u94763773 close "/device-mockups/apple_watch/sport/blue.png" bytes read 42299 written 0
+Oct  1 04:50:06 10.71.53.15 u94763773 [10.71.53.15|get|2|42299|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f73706f72742f626c75652e706e67|]
+Oct  1 04:50:07 10.71.53.15 u94763773 open "/device-mockups/apple_watch/sport/black.png" flags READ mode 0666
+Oct  1 04:50:09 10.71.53.15 u94763773 close "/device-mockups/apple_watch/sport/black.png" bytes read 35150 written 0
+Oct  1 04:50:09 10.71.53.15 u94763773 [10.71.53.15|get|2|35150|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f73706f72742f626c61636b2e706e67|]
+Oct  1 04:50:09 10.71.53.15 u94763773 open "/device-mockups/apple_watch/watch/metal.png" flags READ mode 0666
+Oct  1 04:50:11 10.71.53.15 u94763773 open "/device-mockups/apple_watch/watch/steel.png" flags READ mode 0666
+Oct  1 04:50:11 10.71.53.15 u94763773 close "/device-mockups/apple_watch/watch/metal.png" bytes read 135908 written 0
+Oct  1 04:50:11 10.71.53.15 u94763773 [10.71.53.15|get|2|135908|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f77617463682f6d6574616c2e706e67|]
+Oct  1 04:50:13 10.71.53.15 u94763773 close "/device-mockups/apple_watch/watch/steel.png" bytes read 52476 written 0
+Oct  1 04:50:13 10.71.53.15 u94763773 [10.71.53.15|get|2|52476|0|0|0|2f6465766963652d6d6f636b7570732f6170706c655f77617463682f77617463682f737465656c2e706e67|]
+Oct  1 04:50:15 10.71.53.15 u94763773 open "/device-mockups/galaxy_s3/s3_port_black.png" flags READ mode 0666
+Oct  1 04:50:17 10.71.53.15 u94763773 open "/device-mockups/galaxy_s3/s3_land_black.png" flags READ mode 0666
+Oct  1 04:50:18 10.71.53.15 u94763773 close "/device-mockups/galaxy_s3/s3_port_black.png" bytes read 213266 written 0
+Oct  1 04:50:18 10.71.53.15 u94763773 [10.71.53.15|get|3|213266|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73332f73335f706f72745f626c61636b2e706e67|]
+Oct  1 04:50:44 10.71.53.15 u94763773 Connection closed by 10.71.53.15
+Oct  1 04:50:44 10.71.53.15 u94763773 session closed for local user u94763773 from [10.71.53.15]
+Oct  1 04:50:44 10.71.53.15 u94763773 Connection closed by 10.71.53.15
+Oct  1 04:50:44 10.71.53.15 u94763773 session closed for local user u94763773 from [10.71.53.15]
+Oct  1 04:50:44 10.71.53.15 u94763773 Connection closed by 10.71.53.15
+Oct  1 04:50:44 10.71.53.15 u94763773 forced close "/device-mockups/galaxy_s3/s3_land_black.png" bytes read 282748 written 0
+Oct  1 04:50:44 10.71.53.15 u94763773 [10.71.53.15|get|27|282748|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73332f73335f6c616e645f626c61636b2e706e67|]
+Oct  1 04:50:44 10.71.53.15 u94763773 session closed for local user u94763773 from [10.71.53.15]
+Oct  1 04:50:44 10.71.53.15 u94763773 Connection from 10.71.53.15 port 35146 on 66.175.239.14 port 22
+Oct  1 04:50:55 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 35146 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:50:55 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 35146 ssh2
+Oct  1 04:50:56 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 35146
+Oct  1 04:50:56 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:51:08 10.71.53.15 u94763773 open "/device-mockups/galaxy_s3/s3_land_black.png" flags READ mode 0666
+Oct  1 04:50:44 10.71.53.15 u94763773 Connection from 10.71.53.15 port 35194 on 66.175.239.14 port 22
+Oct  1 04:51:08 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 35194 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:51:09 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 35194 ssh2
+Oct  1 04:51:11 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 35194
+Oct  1 04:51:11 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:51:14 10.71.53.15 u94763773 close "/device-mockups/galaxy_s3/s3_land_black.png" bytes read 184444 written 0
+Oct  1 04:51:14 10.71.53.15 u94763773 [10.71.53.15|get|6|184444|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73332f73335f6c616e645f626c61636b2e706e67|]
+Oct  1 04:51:16 10.71.53.15 u94763773 open "/device-mockups/galaxy_s3/s3_land_white.png" flags READ mode 0666
+Oct  1 04:51:17 10.71.53.15 u94763773 open "/device-mockups/galaxy_s3/s3_port_white.png" flags READ mode 0666
+Oct  1 04:51:18 10.71.53.15 u94763773 close "/device-mockups/galaxy_s3/s3_land_white.png" bytes read 55540 written 0
+Oct  1 04:51:18 10.71.53.15 u94763773 [10.71.53.15|get|2|55540|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73332f73335f6c616e645f77686974652e706e67|]
+Oct  1 04:51:20 10.71.53.15 u94763773 close "/device-mockups/galaxy_s3/s3_port_white.png" bytes read 49179 written 0
+Oct  1 04:51:20 10.71.53.15 u94763773 [10.71.53.15|get|3|49179|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73332f73335f706f72745f77686974652e706e67|]
+Oct  1 04:51:20 10.71.53.15 u94763773 open "/device-mockups/galaxy_s5/galaxy_s5_port_white.png" flags READ mode 0666
+Oct  1 04:51:20 10.71.53.15 u94763773 Connection from 10.71.53.15 port 47456 on 66.175.239.14 port 22
+Oct  1 04:51:25 10.71.53.15 u94763773 Failed publickey for u94763773 from 10.71.53.15 port 47456 ssh2: RSA 2e:eb:f6:c7:d2:a8:7f:8e:6d:11:2e:47:13:fa:e6:8a
+Oct  1 04:51:25 10.71.53.15 u94763773 open "/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" flags READ mode 0666
+Oct  1 04:51:25 10.71.53.15 u94763773 close "/device-mockups/galaxy_s5/galaxy_s5_port_white.png" bytes read 459953 written 0
+Oct  1 04:51:25 10.71.53.15 u94763773 [10.71.53.15|get|5|459953|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73352f67616c6178795f73355f706f72745f77686974652e706e67|]
+Oct  1 04:51:25 10.71.53.15 u94763773 Accepted password for u94763773 from 10.71.53.15 port 47456 ssh2
+Oct  1 04:51:26 10.71.53.15 u94763773 Starting session: subsystem 'sftp' for u94763773 from 10.71.53.15 port 47456
+Oct  1 04:51:26 10.71.53.15 u94763773 session opened for local user u94763773 from [10.71.53.15]
+Oct  1 04:51:27 10.71.53.15 u94763773 open "/device-mockups/galaxy_s5/galaxy_s5_port_black.png" flags READ mode 0666
+Oct  1 04:51:29 10.71.53.15 u94763773 close "/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" bytes read 240067 written 0
+Oct  1 04:51:29 10.71.53.15 u94763773 [10.71.53.15|get|4|240067|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73352f67616c6178795f73355f706f72745f676f6c642e706e67|]
+Oct  1 04:51:29 10.71.53.15 u94763773 close "/device-mockups/galaxy_s5/galaxy_s5_port_black.png" bytes read 233399 written 0
+Oct  1 04:51:29 10.71.53.15 u94763773 [10.71.53.15|get|2|233399|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73352f67616c6178795f73355f706f72745f626c61636b2e706e67|]
+Oct  1 04:51:30 10.71.53.15 u94763773 open "/device-mockups/galaxy_s5/galaxy_s5_land_white.png" flags READ mode 0666
+Oct  1 04:51:30 10.71.53.15 u94763773 open "/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" flags READ mode 0666
+Oct  1 04:51:32 10.71.53.15 u94763773 close "/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" bytes read 253616 written 0
+Oct  1 04:51:32 10.71.53.15 u94763773 [10.71.53.15|get|2|253616|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73352f67616c6178795f73355f6c616e645f676f6c642e706e67|]
+Oct  1 04:51:33 10.71.53.15 u94763773 close "/device-mockups/galaxy_s5/galaxy_s5_land_white.png" bytes read 465809 written 0
+Oct  1 04:51:33 10.71.53.15 u94763773 [10.71.53.15|get|3|465809|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73352f67616c6178795f73355f6c616e645f77686974652e706e67|]
+Oct  1 04:51:33 10.71.53.15 u94763773 open "/device-mockups/galaxy_s5/galaxy_s5_land_black.png" flags READ mode 0666
+Oct  1 04:51:34 10.71.53.15 u94763773 close "/device-mockups/galaxy_s5/galaxy_s5_land_black.png" bytes read 249881 written 0
+Oct  1 04:51:34 10.71.53.15 u94763773 [10.71.53.15|get|1|249881|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f73352f67616c6178795f73355f6c616e645f626c61636b2e706e67|]
+Oct  1 04:51:35 10.71.53.15 u94763773 open "/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" flags READ mode 0666
+Oct  1 04:51:37 10.71.53.15 u94763773 open "/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" flags READ mode 0666
+Oct  1 04:51:37 10.71.53.15 u94763773 close "/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" bytes read 263901 written 0
+Oct  1 04:51:37 10.71.53.15 u94763773 [10.71.53.15|get|2|263901|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f746162342f67616c6178795f746162345f6c616e645f77686974652e706e67|]
+Oct  1 04:51:39 10.71.53.15 u94763773 close "/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" bytes read 518993 written 0
+Oct  1 04:51:39 10.71.53.15 u94763773 [10.71.53.15|get|2|518993|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f746162342f67616c6178795f746162345f6c616e645f626c61636b2e706e67|]
+Oct  1 04:51:40 10.71.53.15 u94763773 open "/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" flags READ mode 0666
+Oct  1 04:51:41 10.71.53.15 u94763773 open "/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" flags READ mode 0666
+Oct  1 04:51:41 10.71.53.15 u94763773 close "/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" bytes read 193153 written 0
+Oct  1 04:51:41 10.71.53.15 u94763773 [10.71.53.15|get|1|193153|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f746162345f736d616c6c2f67616c6178795f746162345f77686974655f736d616c6c2e706e67|]
+Oct  1 04:51:43 10.71.53.15 u94763773 close "/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" bytes read 356934 written 0
+Oct  1 04:51:43 10.71.53.15 u94763773 [10.71.53.15|get|2|356934|0|0|0|2f6465766963652d6d6f636b7570732f67616c6178795f746162345f736d616c6c2f67616c6178795f746162345f626c61636b5f736d616c6c2e706e67|]
+Oct  1 04:51:44 10.71.53.15 u94763773 open "/device-mockups/imac/imac.png" flags READ mode 0666
+Oct  1 04:51:45 10.71.53.15 u94763773 open "/device-mockups/ipad/ipad_port_white.png" flags READ mode 0666
+Oct  1 04:51:45 10.71.53.15 u94763773 close "/device-mockups/imac/imac.png" bytes read 116174 written 0
+Oct  1 04:51:45 10.71.53.15 u94763773 [10.71.53.15|get|1|116174|0|0|0|2f6465766963652d6d6f636b7570732f696d61632f696d61632e706e67|]
+Oct  1 04:51:46 10.71.53.15 u94763773 close "/device-mockups/ipad/ipad_port_white.png" bytes read 9834 written 0
+Oct  1 04:51:46 10.71.53.15 u94763773 [10.71.53.15|get|1|9834|0|0|0|2f6465766963652d6d6f636b7570732f697061642f697061645f706f72745f77686974652e706e67|]
+Oct  1 04:51:47 10.71.53.15 u94763773 open "/device-mockups/ipad/ipad_land_white.png" flags READ mode 0666
+Oct  1 04:51:47 10.71.53.15 u94763773 open "/device-mockups/ipad/ipad_port_black.png" flags READ mode 0666
+Oct  1 04:51:48 10.71.53.15 u94763773 close "/device-mockups/ipad/ipad_land_white.png" bytes read 9501 written 0
+Oct  1 04:51:48 10.71.53.15 u94763773 [10.71.53.15|get|1|9501|0|0|0|2f6465766963652d6d6f636b7570732f697061642f697061645f6c616e645f77686974652e706e67|]
+Oct  1 04:51:49 10.71.53.15 u94763773 close "/device-mockups/ipad/ipad_port_black.png" bytes read 10052 written 0
+Oct  1 04:51:49 10.71.53.15 u94763773 [10.71.53.15|get|2|10052|0|0|0|2f6465766963652d6d6f636b7570732f697061642f697061645f706f72745f626c61636b2e706e67|]
+Oct  1 04:51:49 10.71.53.15 u94763773 open "/device-mockups/ipad/ipad_land_black.png" flags READ mode 0666
+Oct  1 04:51:50 10.71.53.15 u94763773 close "/device-mockups/ipad/ipad_land_black.png" bytes read 9249 written 0
+Oct  1 04:51:50 10.71.53.15 u94763773 [10.71.53.15|get|1|9249|0|0|0|2f6465766963652d6d6f636b7570732f697061642f697061645f6c616e645f626c61636b2e706e67|]
+Oct  1 04:51:51 10.71.53.15 u94763773 open "/device-mockups/ipad_air/ipad_air_silver_port.png" flags READ mode 0666
+Oct  1 04:51:52 10.71.53.15 u94763773 close "/device-mockups/ipad_air/ipad_air_silver_port.png" bytes read 139377 written 0
+Oct  1 04:51:52 10.71.53.15 u94763773 [10.71.53.15|get|1|139377|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169722f697061645f6169725f73696c7665725f706f72742e706e67|]
+Oct  1 04:51:53 10.71.53.15 u94763773 open "/device-mockups/ipad_air/ipad_air_silver_land.png" flags READ mode 0666
+Oct  1 04:51:53 10.71.53.15 u94763773 open "/device-mockups/ipad_air/ipad_air_gray_port.png" flags READ mode 0666
+Oct  1 04:51:54 10.71.53.15 u94763773 close "/device-mockups/ipad_air/ipad_air_silver_land.png" bytes read 134452 written 0
+Oct  1 04:51:54 10.71.53.15 u94763773 [10.71.53.15|get|1|134452|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169722f697061645f6169725f73696c7665725f6c616e642e706e67|]
+Oct  1 04:51:55 10.71.53.15 u94763773 open "/device-mockups/ipad_air/ipad_air_gray_land.png" flags READ mode 0666
+Oct  1 04:51:55 10.71.53.15 u94763773 close "/device-mockups/ipad_air/ipad_air_gray_port.png" bytes read 138785 written 0
+Oct  1 04:51:55 10.71.53.15 u94763773 [10.71.53.15|get|2|138785|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169722f697061645f6169725f677261795f706f72742e706e67|]
+Oct  1 04:51:56 10.71.53.15 u94763773 close "/device-mockups/ipad_air/ipad_air_gray_land.png" bytes read 135696 written 0
+Oct  1 04:51:56 10.71.53.15 u94763773 [10.71.53.15|get|1|135696|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169722f697061645f6169725f677261795f6c616e642e706e67|]
+Oct  1 04:51:57 10.71.53.15 u94763773 open "/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" flags READ mode 0666
+Oct  1 04:51:58 10.71.53.15 u94763773 open "/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" flags READ mode 0666
+Oct  1 04:51:59 10.71.53.15 u94763773 close "/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" bytes read 93215 written 0
+Oct  1 04:51:59 10.71.53.15 u94763773 [10.71.53.15|get|2|93215|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169725f322f697061645f6169725f325f73696c7665725f706f72742e706e67|]
+Oct  1 04:52:00 10.71.53.15 u94763773 close "/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" bytes read 87702 written 0
+Oct  1 04:52:00 10.71.53.15 u94763773 [10.71.53.15|get|2|87702|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169725f322f697061645f6169725f325f73696c7665725f6c616e642e706e67|]
+Oct  1 04:52:00 10.71.53.15 u94763773 open "/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" flags READ mode 0666
+Oct  1 04:52:01 10.71.53.15 u94763773 open "/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" flags READ mode 0666
+Oct  1 04:52:02 10.71.53.15 u94763773 close "/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" bytes read 82926 written 0
+Oct  1 04:52:02 10.71.53.15 u94763773 [10.71.53.15|get|2|82926|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169725f322f697061645f6169725f325f677261795f706f72742e706e67|]
+Oct  1 04:52:02 10.71.53.15 u94763773 close "/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" bytes read 79984 written 0
+Oct  1 04:52:02 10.71.53.15 u94763773 [10.71.53.15|get|1|79984|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169725f322f697061645f6169725f325f677261795f6c616e642e706e67|]
+Oct  1 04:52:03 10.71.53.15 u94763773 open "/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" flags READ mode 0666
+Oct  1 04:52:03 10.71.53.15 u94763773 open "/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" flags READ mode 0666
+Oct  1 04:52:04 10.71.53.15 u94763773 close "/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" bytes read 90181 written 0
+Oct  1 04:52:04 10.71.53.15 u94763773 [10.71.53.15|get|1|90181|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169725f322f697061645f6169725f325f676f6c645f706f72742e706e67|]
+Oct  1 04:52:04 10.71.53.15 u94763773 close "/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" bytes read 86092 written 0
+Oct  1 04:52:04 10.71.53.15 u94763773 [10.71.53.15|get|1|86092|0|0|0|2f6465766963652d6d6f636b7570732f697061645f6169725f322f697061645f6169725f325f676f6c645f6c616e642e706e67|]
+Oct  1 04:52:08 10.71.53.15 u94763773 open "/device-mockups/ipad_pro/ipad_pro_port_silver.png" flags READ mode 0666
+Oct  1 04:52:08 10.71.53.15 u94763773 open "/device-mockups/ipad_pro/ipad_pro_port_gold.png" flags READ mode 0666
+Oct  1 04:52:10 10.71.53.15 u94763773 close "/device-mockups/ipad_pro/ipad_pro_port_silver.png" bytes read 75268 written 0
+Oct  1 04:52:10 10.71.53.15 u94763773 [10.71.53.15|get|2|75268|0|0|0|2f6465766963652d6d6f636b7570732f697061645f70726f2f697061645f70726f5f706f72745f73696c7665722e706e67|]
+Oct  1 04:52:11 10.71.53.15 u94763773 close "/device-mockups/ipad_pro/ipad_pro_port_gold.png" bytes read 73415 written 0
+Oct  1 04:52:11 10.71.53.15 u94763773 [10.71.53.15|get|3|73415|0|0|0|2f6465766963652d6d6f636b7570732f697061645f70726f2f697061645f70726f5f706f72745f676f6c642e706e67|]
+Oct  1 04:52:12 10.71.53.15 u94763773 open "/device-mockups/ipad_pro/ipad_pro_port_black.png" flags READ mode 0666
+Oct  1 04:52:13 10.71.53.15 u94763773 open "/device-mockups/ipad_pro/ipad_pro_land_silver.png" flags READ mode 0666
+Oct  1 04:52:14 10.71.53.15 u94763773 close "/device-mockups/ipad_pro/ipad_pro_port_black.png" bytes read 68569 written 0
+Oct  1 04:52:14 10.71.53.15 u94763773 [10.71.53.15|get|2|68569|0|0|0|2f6465766963652d6d6f636b7570732f697061645f70726f2f697061645f70726f5f706f72745f626c61636b2e706e67|]
+Oct  1 04:52:14 10.71.53.15 u94763773 close "/device-mockups/ipad_pro/ipad_pro_land_silver.png" bytes read 72087 written 0
+Oct  1 04:52:14 10.71.53.15 u94763773 [10.71.53.15|get|1|72087|0|0|0|2f6465766963652d6d6f636b7570732f697061645f70726f2f697061645f70726f5f6c616e645f73696c7665722e706e67|]
+Oct  1 04:52:16 10.71.53.15 u94763773 open "/device-mockups/ipad_pro/ipad_pro_land_gold.png" flags READ mode 0666
+Oct  1 04:52:16 10.71.53.15 u94763773 open "/device-mockups/ipad_pro/ipad_pro_land_black.png" flags READ mode 0666
+Oct  1 04:52:17 10.71.53.15 u94763773 close "/device-mockups/ipad_pro/ipad_pro_land_gold.png" bytes read 69722 written 0
+Oct  1 04:52:17 10.71.53.15 u94763773 [10.71.53.15|get|1|69722|0|0|0|2f6465766963652d6d6f636b7570732f697061645f70726f2f697061645f70726f5f6c616e645f676f6c642e706e67|]
+Oct  1 04:52:18 10.71.53.15 u94763773 close "/device-mockups/ipad_pro/ipad_pro_land_black.png" bytes read 65968 written 0
+Oct  1 04:52:18 10.71.53.15 u94763773 [10.71.53.15|get|2|65968|0|0|0|2f6465766963652d6d6f636b7570732f697061645f70726f2f697061645f70726f5f6c616e645f626c61636b2e706e67|]
+Oct  1 04:52:21 10.71.53.15 u94763773 open "/device-mockups/iphone5/iphone5_port_black.png" flags READ mode 0666
+Oct  1 04:52:22 10.71.53.15 u94763773 open "/device-mockups/iphone5/iphone5_land_black.png" flags READ mode 0666
+Oct  1 04:52:23 10.71.53.15 u94763773 close "/device-mockups/iphone5/iphone5_port_black.png" bytes read 142837 written 0
+Oct  1 04:52:23 10.71.53.15 u94763773 [10.71.53.15|get|2|142837|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e65352f6970686f6e65355f706f72745f626c61636b2e706e67|]
+Oct  1 04:52:24 10.71.53.15 u94763773 close "/device-mockups/iphone5/iphone5_land_black.png" bytes read 102427 written 0
+Oct  1 04:52:24 10.71.53.15 u94763773 [10.71.53.15|get|2|102427|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e65352f6970686f6e65355f6c616e645f626c61636b2e706e67|]
+Oct  1 04:52:25 10.71.53.15 u94763773 open "/device-mockups/iphone5/iphone5_port_white.png" flags READ mode 0666
+Oct  1 04:52:25 10.71.53.15 u94763773 open "/device-mockups/iphone5/iphone5_land_white.png" flags READ mode 0666
+Oct  1 04:52:26 10.71.53.15 u94763773 close "/device-mockups/iphone5/iphone5_port_white.png" bytes read 80835 written 0
+Oct  1 04:52:26 10.71.53.15 u94763773 [10.71.53.15|get|1|80835|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e65352f6970686f6e65355f706f72745f77686974652e706e67|]
+Oct  1 04:52:27 10.71.53.15 u94763773 close "/device-mockups/iphone5/iphone5_land_white.png" bytes read 66819 written 0
+Oct  1 04:52:27 10.71.53.15 u94763773 [10.71.53.15|get|2|66819|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e65352f6970686f6e65355f6c616e645f77686974652e706e67|]
+Oct  1 04:52:30 10.71.53.15 u94763773 open "/device-mockups/iphone_6/iphone_6_port_white.png" flags READ mode 0666
+Oct  1 04:52:31 10.71.53.15 u94763773 open "/device-mockups/iphone_6/iphone_6_port_gold.png" flags READ mode 0666
+Oct  1 04:52:32 10.71.53.15 u94763773 close "/device-mockups/iphone_6/iphone_6_port_white.png" bytes read 165768 written 0
+Oct  1 04:52:32 10.71.53.15 u94763773 [10.71.53.15|get|2|165768|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f362f6970686f6e655f365f706f72745f77686974652e706e67|]
+Oct  1 04:52:33 10.71.53.15 u94763773 close "/device-mockups/iphone_6/iphone_6_port_gold.png" bytes read 201572 written 0
+Oct  1 04:52:33 10.71.53.15 u94763773 [10.71.53.15|get|2|201572|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f362f6970686f6e655f365f706f72745f676f6c642e706e67|]
+Oct  1 04:52:33 10.71.53.15 u94763773 open "/device-mockups/iphone_6/iphone_6_port_black.png" flags READ mode 0666
+Oct  1 04:52:34 10.71.53.15 u94763773 open "/device-mockups/iphone_6/iphone_6_land_white.png" flags READ mode 0666
+Oct  1 04:52:35 10.71.53.15 u94763773 close "/device-mockups/iphone_6/iphone_6_port_black.png" bytes read 129954 written 0
+Oct  1 04:52:35 10.71.53.15 u94763773 [10.71.53.15|get|2|129954|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f362f6970686f6e655f365f706f72745f626c61636b2e706e67|]
+Oct  1 04:52:36 10.71.53.15 u94763773 close "/device-mockups/iphone_6/iphone_6_land_white.png" bytes read 147202 written 0
+Oct  1 04:52:36 10.71.53.15 u94763773 [10.71.53.15|get|2|147202|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f362f6970686f6e655f365f6c616e645f77686974652e706e67|]
+Oct  1 04:52:36 10.71.53.15 u94763773 open "/device-mockups/iphone_6/iphone_6_land_gold.png" flags READ mode 0666
+Oct  1 04:52:38 10.71.53.15 u94763773 close "/device-mockups/iphone_6/iphone_6_land_gold.png" bytes read 180654 written 0
+Oct  1 04:52:38 10.71.53.15 u94763773 [10.71.53.15|get|2|180654|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f362f6970686f6e655f365f6c616e645f676f6c642e706e67|]
+Oct  1 04:52:38 10.71.53.15 u94763773 open "/device-mockups/iphone_6/iphone_6_land_black.png" flags READ mode 0666
+Oct  1 04:52:40 10.71.53.15 u94763773 close "/device-mockups/iphone_6/iphone_6_land_black.png" bytes read 119739 written 0
+Oct  1 04:52:40 10.71.53.15 u94763773 [10.71.53.15|get|2|119739|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f362f6970686f6e655f365f6c616e645f626c61636b2e706e67|]
+Oct  1 04:52:42 10.71.53.15 u94763773 open "/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" flags READ mode 0666
+Oct  1 04:52:43 10.71.53.15 u94763773 open "/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" flags READ mode 0666
+Oct  1 04:52:43 10.71.53.15 u94763773 close "/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" bytes read 286729 written 0
+Oct  1 04:52:43 10.71.53.15 u94763773 [10.71.53.15|get|2|286729|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f365f706c75732f6970686f6e655f365f706c75735f77686974655f706f72742e706e67|]
+Oct  1 04:52:45 10.71.53.15 u94763773 open "/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" flags READ mode 0666
+Oct  1 04:52:45 10.71.53.15 u94763773 close "/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" bytes read 267086 written 0
+Oct  1 04:52:45 10.71.53.15 u94763773 [10.71.53.15|get|2|267086|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f365f706c75732f6970686f6e655f365f706c75735f77686974655f6c616e642e706e67|]
+Oct  1 04:52:48 10.71.53.15 u94763773 close "/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" bytes read 317090 written 0
+Oct  1 04:52:48 10.71.53.15 u94763773 [10.71.53.15|get|3|317090|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f365f706c75732f6970686f6e655f365f706c75735f676f6c645f706f72742e706e67|]
+Oct  1 04:52:48 10.71.53.15 u94763773 open "/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" flags READ mode 0666
+Oct  1 04:52:50 10.71.53.15 u94763773 open "/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" flags READ mode 0666
+Oct  1 04:52:50 10.71.53.15 u94763773 close "/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" bytes read 288278 written 0
+Oct  1 04:52:50 10.71.53.15 u94763773 [10.71.53.15|get|2|288278|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f365f706c75732f6970686f6e655f365f706c75735f676f6c645f6c616e642e706e67|]
+Oct  1 04:52:52 10.71.53.15 u94763773 open "/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" flags READ mode 0666
+Oct  1 04:52:52 10.71.53.15 u94763773 close "/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" bytes read 298110 written 0
+Oct  1 04:52:52 10.71.53.15 u94763773 [10.71.53.15|get|2|298110|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f365f706c75732f6970686f6e655f365f706c75735f626c61636b5f706f72742e706e67|]
+Oct  1 04:52:54 10.71.53.15 u94763773 close "/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" bytes read 265886 written 0
+Oct  1 04:52:54 10.71.53.15 u94763773 [10.71.53.15|get|2|265886|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f365f706c75732f6970686f6e655f365f706c75735f626c61636b5f6c616e642e706e67|]
+Oct  1 04:52:54 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_port_white.png" flags READ mode 0666
+Oct  1 04:52:55 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_port_white.png" bytes read 57116 written 0
+Oct  1 04:52:55 10.71.53.15 u94763773 [10.71.53.15|get|1|57116|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f706f72745f77686974652e706e67|]
+Oct  1 04:52:56 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_port_rose.png" flags READ mode 0666
+Oct  1 04:52:57 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_port_gold.png" flags READ mode 0666
+Oct  1 04:52:58 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_port_rose.png" bytes read 65386 written 0
+Oct  1 04:52:58 10.71.53.15 u94763773 [10.71.53.15|get|2|65386|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f706f72745f726f73652e706e67|]
+Oct  1 04:52:59 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_port_gold.png" bytes read 64763 written 0
+Oct  1 04:52:59 10.71.53.15 u94763773 [10.71.53.15|get|2|64763|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f706f72745f676f6c642e706e67|]
+Oct  1 04:52:59 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_port_black.png" flags READ mode 0666
+Oct  1 04:53:00 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_land_white.png" flags READ mode 0666
+Oct  1 04:53:01 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_port_black.png" bytes read 65853 written 0
+Oct  1 04:53:01 10.71.53.15 u94763773 [10.71.53.15|get|2|65853|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f706f72745f626c61636b2e706e67|]
+Oct  1 04:53:01 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_land_white.png" bytes read 57218 written 0
+Oct  1 04:53:01 10.71.53.15 u94763773 [10.71.53.15|get|1|57218|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f6c616e645f77686974652e706e67|]
+Oct  1 04:53:03 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_land_rose.png" flags READ mode 0666
+Oct  1 04:53:03 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_land_gold.png" flags READ mode 0666
+Oct  1 04:53:06 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_land_rose.png" bytes read 64938 written 0
+Oct  1 04:53:06 10.71.53.15 u94763773 [10.71.53.15|get|3|64938|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f6c616e645f726f73652e706e67|]
+Oct  1 04:53:07 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_land_gold.png" bytes read 63406 written 0
+Oct  1 04:53:07 10.71.53.15 u94763773 [10.71.53.15|get|4|63406|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f6c616e645f676f6c642e706e67|]
+Oct  1 04:53:08 10.71.53.15 u94763773 open "/device-mockups/iphone_se/iphone_se_land_black.png" flags READ mode 0666
+Oct  1 04:53:09 10.71.53.15 u94763773 close "/device-mockups/iphone_se/iphone_se_land_black.png" bytes read 64948 written 0
+Oct  1 04:53:09 10.71.53.15 u94763773 [10.71.53.15|get|1|64948|0|0|0|2f6465766963652d6d6f636b7570732f6970686f6e655f73652f6970686f6e655f73655f6c616e645f626c61636b2e706e67|]
+Oct  1 04:53:10 10.71.53.15 u94763773 open "/device-mockups/lumia920/lumia920_port.png" flags READ mode 0666
+Oct  1 04:53:11 10.71.53.15 u94763773 close "/device-mockups/lumia920/lumia920_port.png" bytes read 22644 written 0
+Oct  1 04:53:11 10.71.53.15 u94763773 [10.71.53.15|get|1|22644|0|0|0|2f6465766963652d6d6f636b7570732f6c756d69613932302f6c756d69613932305f706f72742e706e67|]
+Oct  1 04:53:12 10.71.53.15 u94763773 open "/device-mockups/lumia920/lumia920_land.png" flags READ mode 0666
+Oct  1 04:53:13 10.71.53.15 u94763773 close "/device-mockups/lumia920/lumia920_land.png" bytes read 16892 written 0
+Oct  1 04:53:13 10.71.53.15 u94763773 [10.71.53.15|get|1|16892|0|0|0|2f6465766963652d6d6f636b7570732f6c756d69613932302f6c756d69613932305f6c616e642e706e67|]
+Oct  1 04:53:13 10.71.53.15 u94763773 open "/device-mockups/lumia_930/lumia_930_light_port.png" flags READ mode 0666
+Oct  1 04:53:14 10.71.53.15 u94763773 close "/device-mockups/lumia_930/lumia_930_light_port.png" bytes read 68529 written 0
+Oct  1 04:53:14 10.71.53.15 u94763773 [10.71.53.15|get|1|68529|0|0|0|2f6465766963652d6d6f636b7570732f6c756d69615f3933302f6c756d69615f3933305f6c696768745f706f72742e706e67|]
+Oct  1 04:53:15 10.71.53.15 u94763773 open "/device-mockups/lumia_930/lumia_930_dark_port.png" flags READ mode 0666
+Oct  1 04:53:15 10.71.53.15 u94763773 open "/device-mockups/lumia_930/lumia_930_light_land.png" flags READ mode 0666
+Oct  1 04:53:17 10.71.53.15 u94763773 close "/device-mockups/lumia_930/lumia_930_dark_port.png" bytes read 73002 written 0
+Oct  1 04:53:17 10.71.53.15 u94763773 [10.71.53.15|get|2|73002|0|0|0|2f6465766963652d6d6f636b7570732f6c756d69615f3933302f6c756d69615f3933305f6461726b5f706f72742e706e67|]
+Oct  1 04:53:17 10.71.53.15 u94763773 close "/device-mockups/lumia_930/lumia_930_light_land.png" bytes read 68049 written 0
+Oct  1 04:53:17 10.71.53.15 u94763773 [10.71.53.15|get|2|68049|0|0|0|2f6465766963652d6d6f636b7570732f6c756d69615f3933302f6c756d69615f3933305f6c696768745f6c616e642e706e67|]
+Oct  1 04:53:18 10.71.53.15 u94763773 open "/device-mockups/lumia_930/lumia_930_dark_land.png" flags READ mode 0666
+Oct  1 04:53:19 10.71.53.15 u94763773 close "/device-mockups/lumia_930/lumia_930_dark_land.png" bytes read 72457 written 0
+Oct  1 04:53:19 10.71.53.15 u94763773 [10.71.53.15|get|1|72457|0|0|0|2f6465766963652d6d6f636b7570732f6c756d69615f3933302f6c756d69615f3933305f6461726b5f6c616e642e706e67|]
+Oct  1 04:53:20 10.71.53.15 u94763773 open "/device-mockups/macbook/macbook.png" flags READ mode 0666
+Oct  1 04:53:22 10.71.53.15 u94763773 close "/device-mockups/macbook/macbook.png" bytes read 18776 written 0
+Oct  1 04:53:22 10.71.53.15 u94763773 [10.71.53.15|get|2|18776|0|0|0|2f6465766963652d6d6f636b7570732f6d6163626f6f6b2f6d6163626f6f6b2e706e67|]
+Oct  1 04:53:23 10.71.53.15 u94763773 open "/device-mockups/macbook_2015/silver.png" flags READ mode 0666
+Oct  1 04:53:25 10.71.53.15 u94763773 close "/device-mockups/macbook_2015/silver.png" bytes read 54815 written 0
+Oct  1 04:53:25 10.71.53.15 u94763773 [10.71.53.15|get|2|54815|0|0|0|2f6465766963652d6d6f636b7570732f6d6163626f6f6b5f323031352f73696c7665722e706e67|]
+Oct  1 04:53:25 10.71.53.15 u94763773 open "/device-mockups/macbook_2015/grey.png" flags READ mode 0666
+Oct  1 04:53:26 10.71.53.15 u94763773 open "/device-mockups/macbook_2015/gold.png" flags READ mode 0666
+Oct  1 04:53:27 10.71.53.15 u94763773 close "/device-mockups/macbook_2015/grey.png" bytes read 55951 written 0
+Oct  1 04:53:27 10.71.53.15 u94763773 [10.71.53.15|get|2|55951|0|0|0|2f6465766963652d6d6f636b7570732f6d6163626f6f6b5f323031352f677265792e706e67|]
+Oct  1 04:53:29 10.71.53.15 u94763773 close "/device-mockups/macbook_2015/gold.png" bytes read 81145 written 0
+Oct  1 04:53:29 10.71.53.15 u94763773 [10.71.53.15|get|3|81145|0|0|0|2f6465766963652d6d6f636b7570732f6d6163626f6f6b5f323031352f676f6c642e706e67|]
+Oct  1 04:53:34 10.71.53.15 u94763773 open "/device-mockups/nexus7/nexus7_port.png" flags READ mode 0666
+Oct  1 04:53:34 10.71.53.15 u94763773 open "/device-mockups/nexus7/nexus7_land.png" flags READ mode 0666
+Oct  1 04:53:35 10.71.53.15 u94763773 close "/device-mockups/nexus7/nexus7_port.png" bytes read 10458 written 0
+Oct  1 04:53:35 10.71.53.15 u94763773 [10.71.53.15|get|1|10458|0|0|0|2f6465766963652d6d6f636b7570732f6e65787573372f6e65787573375f706f72742e706e67|]
+Oct  1 04:53:36 10.71.53.15 u94763773 close "/device-mockups/nexus7/nexus7_land.png" bytes read 9681 written 0
+Oct  1 04:53:36 10.71.53.15 u94763773 [10.71.53.15|get|2|9681|0|0|0|2f6465766963652d6d6f636b7570732f6e65787573372f6e65787573375f6c616e642e706e67|]
+Oct  1 04:53:39 10.71.53.15 u94763773 open "/device-mockups/nexus_6/nexus_6_port.png" flags READ mode 0666
+Oct  1 04:53:42 10.71.53.15 u94763773 open "/device-mockups/nexus_6/nexus_6_land.png" flags READ mode 0666
+Oct  1 04:53:43 10.71.53.15 u94763773 close "/device-mockups/nexus_6/nexus_6_port.png" bytes read 165456 written 0
+Oct  1 04:53:43 10.71.53.15 u94763773 [10.71.53.15|get|4|165456|0|0|0|2f6465766963652d6d6f636b7570732f6e657875735f362f6e657875735f365f706f72742e706e67|]
+Oct  1 04:53:44 10.71.53.15 u94763773 close "/device-mockups/nexus_6/nexus_6_land.png" bytes read 184194 written 0
+Oct  1 04:53:44 10.71.53.15 u94763773 [10.71.53.15|get|2|184194|0|0|0|2f6465766963652d6d6f636b7570732f6e657875735f362f6e657875735f365f6c616e642e706e67|]
+Oct  1 04:53:46 10.71.53.15 u94763773 open "/device-mockups/samsung_tv/samsung_tv.png" flags READ mode 0666
+Oct  1 04:53:47 10.71.53.15 u94763773 open "/device-mockups/surface/surface.png" flags READ mode 0666
+Oct  1 04:53:48 10.71.53.15 u94763773 close "/device-mockups/samsung_tv/samsung_tv.png" bytes read 38328 written 0
+Oct  1 04:53:48 10.71.53.15 u94763773 [10.71.53.15|get|2|38328|0|0|0|2f6465766963652d6d6f636b7570732f73616d73756e675f74762f73616d73756e675f74762e706e67|]
+Oct  1 04:53:48 10.71.53.15 u94763773 close "/device-mockups/surface/surface.png" bytes read 3740 written 0
+Oct  1 04:53:48 10.71.53.15 u94763773 [10.71.53.15|get|1|3740|0|0|0|2f6465766963652d6d6f636b7570732f737572666163652f737572666163652e706e67|]
+Oct  1 04:53:50 10.71.53.15 u94763773 open "/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Oct  1 04:53:50 10.71.53.15 u94763773 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Oct  1 04:53:52 10.71.53.15 u94763773 close "/fonts/fontawesome-webfont.svg" bytes read 202148 written 0
+Oct  1 04:53:52 10.71.53.15 u94763773 [10.71.53.15|get|2|202148|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Oct  1 04:53:53 10.71.53.15 u94763773 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23320 written 0
+Oct  1 04:53:53 10.71.53.15 u94763773 [10.71.53.15|get|3|23320|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Oct  1 04:53:54 10.71.53.15 u94763773 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Oct  1 04:53:55 10.71.53.15 u94763773 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Oct  1 04:53:56 10.71.53.15 u94763773 close "/fonts/glyphicons-halflings-regular.svg" bytes read 62926 written 0
+Oct  1 04:53:56 10.71.53.15 u94763773 [10.71.53.15|get|1|62926|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Oct  1 04:53:56 10.71.53.15 u94763773 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 41280 written 0
+Oct  1 04:53:56 10.71.53.15 u94763773 [10.71.53.15|get|2|41280|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Oct  1 04:53:57 10.71.53.15 u94763773 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Oct  1 04:53:57 10.71.53.15 u94763773 open "/fonts/FontAwesome.otf" flags READ mode 0666
+Oct  1 04:53:58 10.71.53.15 u94763773 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20335 written 0
+Oct  1 04:53:58 10.71.53.15 u94763773 [10.71.53.15|get|1|20335|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Oct  1 04:53:59 10.71.53.15 u94763773 close "/fonts/FontAwesome.otf" bytes read 62856 written 0
+Oct  1 04:53:59 10.71.53.15 u94763773 [10.71.53.15|get|2|62856|0|0|0|2f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Oct  1 04:54:00 10.71.53.15 u94763773 open "/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Oct  1 04:54:00 10.71.53.15 u94763773 open "/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Oct  1 04:54:01 10.71.53.15 u94763773 close "/fonts/fontawesome-webfont.woff" bytes read 44432 written 0
+Oct  1 04:54:01 10.71.53.15 u94763773 [10.71.53.15|get|1|44432|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Oct  1 04:54:02 10.71.53.15 u94763773 close "/fonts/fontawesome-webfont.ttf" bytes read 80652 written 0
+Oct  1 04:54:02 10.71.53.15 u94763773 [10.71.53.15|get|2|80652|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Oct  1 04:54:02 10.71.53.15 u94763773 open "/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Oct  1 04:54:04 10.71.53.15 u94763773 close "/fonts/fontawesome-webfont.eot" bytes read 38205 written 0
+Oct  1 04:54:04 10.71.53.15 u94763773 [10.71.53.15|get|2|38205|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Oct  1 04:54:05 10.71.53.15 u94763773 open "/images/BAM-750x420.jpg" flags READ mode 0666
+Oct  1 04:54:07 10.71.53.15 u94763773 open "/images/E6.jpg" flags READ mode 0666
+Oct  1 04:54:07 10.71.53.15 u94763773 close "/images/BAM-750x420.jpg" bytes read 137970 written 0
+Oct  1 04:54:07 10.71.53.15 u94763773 [10.71.53.15|get|2|137970|0|0|0|2f696d616765732f42414d2d373530783432302e6a7067|]
+Oct  1 04:54:09 10.71.53.15 u94763773 open "/images/E5.jpg" flags READ mode 0666
+Oct  1 04:54:09 10.71.53.15 u94763773 close "/images/E6.jpg" bytes read 51735 written 0
+Oct  1 04:54:09 10.71.53.15 u94763773 [10.71.53.15|get|2|51735|0|0|0|2f696d616765732f45362e6a7067|]
+Oct  1 04:54:11 10.71.53.15 u94763773 open "/images/E4.jpg" flags READ mode 0666
+Oct  1 04:54:11 10.71.53.15 u94763773 close "/images/E5.jpg" bytes read 41345 written 0
+Oct  1 04:54:11 10.71.53.15 u94763773 [10.71.53.15|get|2|41345|0|0|0|2f696d616765732f45352e6a7067|]
+Oct  1 04:54:13 10.71.53.15 u94763773 close "/images/E4.jpg" bytes read 75968 written 0
+Oct  1 04:54:13 10.71.53.15 u94763773 [10.71.53.15|get|2|75968|0|0|0|2f696d616765732f45342e6a7067|]
+Oct  1 04:54:13 10.71.53.15 u94763773 open "/images/E3.jpg" flags READ mode 0666
+Oct  1 04:54:15 10.71.53.15 u94763773 open "/images/e1.jpg" flags READ mode 0666
+Oct  1 04:54:15 10.71.53.15 u94763773 close "/images/E3.jpg" bytes read 54917 written 0
+Oct  1 04:54:15 10.71.53.15 u94763773 [10.71.53.15|get|2|54917|0|0|0|2f696d616765732f45332e6a7067|]
+Oct  1 04:54:16 10.71.53.15 u94763773 close "/images/e1.jpg" bytes read 29571 written 0
+Oct  1 04:54:16 10.71.53.15 u94763773 [10.71.53.15|get|0|29571|0|0|0|2f696d616765732f65312e6a7067|]
+Oct  1 04:54:16 10.71.53.15 u94763773 open "/images/6.jpg" flags READ mode 0666
+Oct  1 04:54:17 10.71.53.15 u94763773 close "/images/6.jpg" bytes read 14583 written 0
+Oct  1 04:54:17 10.71.53.15 u94763773 [10.71.53.15|get|1|14583|0|0|0|2f696d616765732f362e6a7067|]
+Oct  1 04:54:18 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_rounded/sprite.png" flags READ mode 0666
+Oct  1 04:54:20 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_rounded/sprite.png" bytes read 4076 written 0
+Oct  1 04:54:20 10.71.53.15 u94763773 [10.71.53.15|get|2|4076|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f7370726974652e706e67|]
+Oct  1 04:54:20 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_rounded/loader.gif" flags READ mode 0666
+Oct  1 04:54:21 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_rounded/default_thumbnail.gif" flags READ mode 0666
+Oct  1 04:54:22 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_rounded/loader.gif" bytes read 2545 written 0
+Oct  1 04:54:22 10.71.53.15 u94763773 [10.71.53.15|get|2|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f6c6f616465722e676966|]
+Oct  1 04:54:22 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_rounded/default_thumbnail.gif" bytes read 227 written 0
+Oct  1 04:54:22 10.71.53.15 u94763773 [10.71.53.15|get|1|227|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f64656661756c745f7468756d626e61696c2e676966|]
+Oct  1 04:54:24 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_rounded/contentPattern.png" flags READ mode 0666
+Oct  1 04:54:24 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_rounded/btnPrevious.png" flags READ mode 0666
+Oct  1 04:54:25 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_rounded/contentPattern.png" bytes read 130 written 0
+Oct  1 04:54:25 10.71.53.15 u94763773 [10.71.53.15|get|1|130|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f636f6e74656e745061747465726e2e706e67|]
+Oct  1 04:54:25 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_rounded/btnPrevious.png" bytes read 1442 written 0
+Oct  1 04:54:25 10.71.53.15 u94763773 [10.71.53.15|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f62746e50726576696f75732e706e67|]
+Oct  1 04:54:27 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_rounded/btnNext.png" flags READ mode 0666
+Oct  1 04:54:28 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_square/sprite.png" flags READ mode 0666
+Oct  1 04:54:29 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_rounded/btnNext.png" bytes read 1411 written 0
+Oct  1 04:54:29 10.71.53.15 u94763773 [10.71.53.15|get|2|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f726f756e6465642f62746e4e6578742e706e67|]
+Oct  1 04:54:30 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_square/sprite.png" bytes read 3507 written 0
+Oct  1 04:54:30 10.71.53.15 u94763773 [10.71.53.15|get|2|3507|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f7370726974652e706e67|]
+Oct  1 04:54:32 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_square/default_thumbnail.gif" flags READ mode 0666
+Oct  1 04:54:33 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_square/loader.gif" flags READ mode 0666
+Oct  1 04:54:34 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_square/default_thumbnail.gif" bytes read 227 written 0
+Oct  1 04:54:34 10.71.53.15 u94763773 [10.71.53.15|get|2|227|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f64656661756c745f7468756d626e61696c2e676966|]
+Oct  1 04:54:34 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_square/loader.gif" bytes read 2545 written 0
+Oct  1 04:54:34 10.71.53.15 u94763773 [10.71.53.15|get|1|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f6c6f616465722e676966|]
+Oct  1 04:54:34 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_square/contentPattern.png" flags READ mode 0666
+Oct  1 04:54:35 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_square/btnPrevious.png" flags READ mode 0666
+Oct  1 04:54:36 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_square/contentPattern.png" bytes read 121 written 0
+Oct  1 04:54:36 10.71.53.15 u94763773 [10.71.53.15|get|2|121|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f636f6e74656e745061747465726e2e706e67|]
+Oct  1 04:54:36 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_square/btnPrevious.png" bytes read 1442 written 0
+Oct  1 04:54:36 10.71.53.15 u94763773 [10.71.53.15|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f62746e50726576696f75732e706e67|]
+Oct  1 04:54:36 10.71.53.15 u94763773 open "/images/prettyPhoto/dark_square/btnNext.png" flags READ mode 0666
+Oct  1 04:54:38 10.71.53.15 u94763773 close "/images/prettyPhoto/dark_square/btnNext.png" bytes read 1411 written 0
+Oct  1 04:54:38 10.71.53.15 u94763773 [10.71.53.15|get|2|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6461726b5f7371756172652f62746e4e6578742e706e67|]
+Oct  1 04:54:40 10.71.53.15 u94763773 open "/images/prettyPhoto/default/sprite_y.png" flags READ mode 0666
+Oct  1 04:54:41 10.71.53.15 u94763773 close "/images/prettyPhoto/default/sprite_y.png" bytes read 1162 written 0
+Oct  1 04:54:41 10.71.53.15 u94763773 [10.71.53.15|get|1|1162|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f792e706e67|]
+Oct  1 04:54:41 10.71.53.15 u94763773 open "/images/prettyPhoto/default/sprite_x.png" flags READ mode 0666
+Oct  1 04:54:42 10.71.53.15 u94763773 close "/images/prettyPhoto/default/sprite_x.png" bytes read 1097 written 0
+Oct  1 04:54:42 10.71.53.15 u94763773 [10.71.53.15|get|1|1097|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f782e706e67|]
+Oct  1 04:54:42 10.71.53.15 u94763773 open "/images/prettyPhoto/default/sprite_prev.png" flags READ mode 0666
+Oct  1 04:54:43 10.71.53.15 u94763773 open "/images/prettyPhoto/default/sprite_next.png" flags READ mode 0666
+Oct  1 04:54:43 10.71.53.15 u94763773 close "/images/prettyPhoto/default/sprite_prev.png" bytes read 1376 written 0
+Oct  1 04:54:43 10.71.53.15 u94763773 [10.71.53.15|get|1|1376|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f707265762e706e67|]
+Oct  1 04:54:44 10.71.53.15 u94763773 close "/images/prettyPhoto/default/sprite_next.png" bytes read 1358 written 0
+Oct  1 04:54:44 10.71.53.15 u94763773 [10.71.53.15|get|1|1358|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974655f6e6578742e706e67|]
+Oct  1 04:54:45 10.71.53.15 u94763773 open "/images/prettyPhoto/default/sprite.png" flags READ mode 0666
+Oct  1 04:54:46 10.71.53.15 u94763773 open "/images/prettyPhoto/default/loader.gif" flags READ mode 0666
+Oct  1 04:54:47 10.71.53.15 u94763773 close "/images/prettyPhoto/default/sprite.png" bytes read 6682 written 0
+Oct  1 04:54:47 10.71.53.15 u94763773 [10.71.53.15|get|2|6682|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f7370726974652e706e67|]
+Oct  1 04:54:48 10.71.53.15 u94763773 close "/images/prettyPhoto/default/loader.gif" bytes read 6331 written 0
+Oct  1 04:54:48 10.71.53.15 u94763773 [10.71.53.15|get|2|6331|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f6c6f616465722e676966|]
+Oct  1 04:54:48 10.71.53.15 u94763773 open "/images/prettyPhoto/default/default_thumb.png" flags READ mode 0666
+Oct  1 04:54:50 10.71.53.15 u94763773 close "/images/prettyPhoto/default/default_thumb.png" bytes read 1537 written 0
+Oct  1 04:54:50 10.71.53.15 u94763773 [10.71.53.15|get|2|1537|0|0|0|2f696d616765732f70726574747950686f746f2f64656661756c742f64656661756c745f7468756d622e706e67|]
+Oct  1 04:54:51 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/sprite.png" flags READ mode 0666
+Oct  1 04:54:53 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/sprite.png" bytes read 4227 written 0
+Oct  1 04:54:53 10.71.53.15 u94763773 [10.71.53.15|get|2|4227|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f7370726974652e706e67|]
+Oct  1 04:54:54 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/loader.gif" flags READ mode 0666
+Oct  1 04:54:55 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/default_thumbnail.gif" flags READ mode 0666
+Oct  1 04:54:56 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/loader.gif" bytes read 2545 written 0
+Oct  1 04:54:56 10.71.53.15 u94763773 [10.71.53.15|get|2|2545|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f6c6f616465722e676966|]
+Oct  1 04:54:57 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/default_thumbnail.gif" bytes read 227 written 0
+Oct  1 04:54:57 10.71.53.15 u94763773 [10.71.53.15|get|2|227|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f64656661756c745f7468756d626e61696c2e676966|]
+Oct  1 04:54:58 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/contentPatternTop.png" flags READ mode 0666
+Oct  1 04:54:59 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/contentPatternRight.png" flags READ mode 0666
+Oct  1 04:55:00 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/contentPatternTop.png" bytes read 142 written 0
+Oct  1 04:55:00 10.71.53.15 u94763773 [10.71.53.15|get|2|142|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e546f702e706e67|]
+Oct  1 04:55:01 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/contentPatternRight.png" bytes read 136 written 0
+Oct  1 04:55:01 10.71.53.15 u94763773 [10.71.53.15|get|2|136|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e52696768742e706e67|]
+Oct  1 04:55:01 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/contentPatternLeft.png" flags READ mode 0666
+Oct  1 04:55:02 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/contentPatternBottom.png" flags READ mode 0666
+Oct  1 04:55:03 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/contentPatternLeft.png" bytes read 137 written 0
+Oct  1 04:55:03 10.71.53.15 u94763773 [10.71.53.15|get|2|137|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e4c6566742e706e67|]
+Oct  1 04:55:04 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/contentPatternBottom.png" bytes read 142 written 0
+Oct  1 04:55:04 10.71.53.15 u94763773 [10.71.53.15|get|2|142|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f636f6e74656e745061747465726e426f74746f6d2e706e67|]
+Oct  1 04:55:05 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/btnPrevious.png" flags READ mode 0666
+Oct  1 04:55:06 10.71.53.15 u94763773 open "/images/prettyPhoto/facebook/btnNext.png" flags READ mode 0666
+Oct  1 04:55:06 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/btnPrevious.png" bytes read 828 written 0
+Oct  1 04:55:06 10.71.53.15 u94763773 [10.71.53.15|get|2|828|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f62746e50726576696f75732e706e67|]
+Oct  1 04:55:06 10.71.53.15 u94763773 close "/images/prettyPhoto/facebook/btnNext.png" bytes read 845 written 0
+Oct  1 04:55:06 10.71.53.15 u94763773 [10.71.53.15|get|0|845|0|0|0|2f696d616765732f70726574747950686f746f2f66616365626f6f6b2f62746e4e6578742e706e67|]
+Oct  1 04:55:10 10.71.53.15 u94763773 open "/images/prettyPhoto/light_rounded/sprite.png" flags READ mode 0666
+Oct  1 04:55:10 10.71.53.15 u94763773 open "/images/prettyPhoto/light_rounded/loader.gif" flags READ mode 0666
+Oct  1 04:55:11 10.71.53.15 u94763773 close "/images/prettyPhoto/light_rounded/sprite.png" bytes read 4099 written 0
+Oct  1 04:55:11 10.71.53.15 u94763773 [10.71.53.15|get|1|4099|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f7370726974652e706e67|]
+Oct  1 04:55:11 10.71.53.15 u94763773 close "/images/prettyPhoto/light_rounded/loader.gif" bytes read 2545 written 0
+Oct  1 04:55:11 10.71.53.15 u94763773 [10.71.53.15|get|1|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f6c6f616465722e676966|]
+Oct  1 04:55:12 10.71.53.15 u94763773 open "/images/prettyPhoto/light_rounded/btnPrevious.png" flags READ mode 0666
+Oct  1 04:55:12 10.71.53.15 u94763773 open "/images/prettyPhoto/light_rounded/default_thumbnail.gif" flags READ mode 0666
+Oct  1 04:55:13 10.71.53.15 u94763773 close "/images/prettyPhoto/light_rounded/btnPrevious.png" bytes read 1442 written 0
+Oct  1 04:55:13 10.71.53.15 u94763773 [10.71.53.15|get|1|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f62746e50726576696f75732e706e67|]
+Oct  1 04:55:13 10.71.53.15 u94763773 close "/images/prettyPhoto/light_rounded/default_thumbnail.gif" bytes read 227 written 0
+Oct  1 04:55:13 10.71.53.15 u94763773 [10.71.53.15|get|1|227|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f64656661756c745f7468756d626e61696c2e676966|]
+Oct  1 04:55:14 10.71.53.15 u94763773 open "/images/prettyPhoto/light_rounded/btnNext.png" flags READ mode 0666
+Oct  1 04:55:16 10.71.53.15 u94763773 close "/images/prettyPhoto/light_rounded/btnNext.png" bytes read 1411 written 0
+Oct  1 04:55:16 10.71.53.15 u94763773 [10.71.53.15|get|2|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f726f756e6465642f62746e4e6578742e706e67|]
+Oct  1 04:55:16 10.71.53.15 u94763773 open "/images/prettyPhoto/light_square/sprite.png" flags READ mode 0666
+Oct  1 04:55:18 10.71.53.15 u94763773 close "/images/prettyPhoto/light_square/sprite.png" bytes read 3507 written 0
+Oct  1 04:55:18 10.71.53.15 u94763773 [10.71.53.15|get|2|3507|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f7370726974652e706e67|]
+Oct  1 04:55:19 10.71.53.15 u94763773 open "/images/prettyPhoto/light_square/loader.gif" flags READ mode 0666
+Oct  1 04:55:20 10.71.53.15 u94763773 open "/images/prettyPhoto/light_square/default_thumbnail.gif" flags READ mode 0666
+Oct  1 04:55:21 10.71.53.15 u94763773 close "/images/prettyPhoto/light_square/loader.gif" bytes read 2545 written 0
+Oct  1 04:55:21 10.71.53.15 u94763773 [10.71.53.15|get|2|2545|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f6c6f616465722e676966|]
+Oct  1 04:55:22 10.71.53.15 u94763773 close "/images/prettyPhoto/light_square/default_thumbnail.gif" bytes read 227 written 0
+Oct  1 04:55:22 10.71.53.15 u94763773 [10.71.53.15|get|2|227|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f64656661756c745f7468756d626e61696c2e676966|]
+Oct  1 04:55:23 10.71.53.15 u94763773 open "/images/prettyPhoto/light_square/btnPrevious.png" flags READ mode 0666
+Oct  1 04:55:24 10.71.53.15 u94763773 open "/images/prettyPhoto/light_square/btnNext.png" flags READ mode 0666
+Oct  1 04:55:25 10.71.53.15 u94763773 close "/images/prettyPhoto/light_square/btnPrevious.png" bytes read 1442 written 0
+Oct  1 04:55:25 10.71.53.15 u94763773 [10.71.53.15|get|2|1442|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f62746e50726576696f75732e706e67|]
+Oct  1 04:55:25 10.71.53.15 u94763773 close "/images/prettyPhoto/light_square/btnNext.png" bytes read 1411 written 0
+Oct  1 04:55:25 10.71.53.15 u94763773 [10.71.53.15|get|1|1411|0|0|0|2f696d616765732f70726574747950686f746f2f6c696768745f7371756172652f62746e4e6578742e706e67|]
+Oct  1 04:55:28 10.71.53.15 u94763773 open "/img/slider3.jpg" flags READ mode 0666
+Oct  1 04:55:31 10.71.53.15 u94763773 open "/img/hv.jpg" flags READ mode 0666
+Oct  1 04:55:32 10.71.53.15 u94763773 close "/img/slider3.jpg" bytes read 154844 written 0
+Oct  1 04:55:32 10.71.53.15 u94763773 [10.71.53.15|get|4|154844|0|0|0|2f696d672f736c69646572332e6a7067|]
+Oct  1 04:55:33 10.71.53.15 u94763773 close "/img/hv.jpg" bytes read 153885 written 0
+Oct  1 04:55:33 10.71.53.15 u94763773 [10.71.53.15|get|2|153885|0|0|0|2f696d672f68762e6a7067|]
+Oct  1 04:55:34 10.71.53.15 u94763773 open "/img/hf.jpg" flags READ mode 0666
+Oct  1 04:55:35 10.71.53.15 u94763773 open "/img/he.jpg" flags READ mode 0666
+Oct  1 04:55:35 10.71.53.15 u94763773 close "/img/hf.jpg" bytes read 157169 written 0
+Oct  1 04:55:35 10.71.53.15 u94763773 [10.71.53.15|get|1|157169|0|0|0|2f696d672f68662e6a7067|]
+Oct  1 04:55:36 10.71.53.15 u94763773 open "/img/hd.jpg" flags READ mode 0666
+Oct  1 04:55:36 10.71.53.15 u94763773 close "/img/he.jpg" bytes read 151491 written 0
+Oct  1 04:55:36 10.71.53.15 u94763773 [10.71.53.15|get|1|151491|0|0|0|2f696d672f68652e6a7067|]
+Oct  1 04:55:38 10.71.53.15 u94763773 close "/img/hd.jpg" bytes read 79604 written 0
+Oct  1 04:55:38 10.71.53.15 u94763773 [10.71.53.15|get|2|79604|0|0|0|2f696d672f68642e6a7067|]
+Oct  1 04:55:38 10.71.53.15 u94763773 open "/img/haa.jpg" flags READ mode 0666
+Oct  1 04:55:40 10.71.53.15 u94763773 open "/img/h3.jpg" flags READ mode 0666
+Oct  1 04:55:40 10.71.53.15 u94763773 close "/img/haa.jpg" bytes read 46749 written 0
+Oct  1 04:55:40 10.71.53.15 u94763773 [10.71.53.15|get|2|46749|0|0|0|2f696d672f6861612e6a7067|]
+Oct  1 04:55:41 10.71.53.15 u94763773 close "/img/h3.jpg" bytes read 104886 written 0
+Oct  1 04:55:41 10.71.53.15 u94763773 [10.71.53.15|get|1|104886|0|0|0|2f696d672f68332e6a7067|]
+Oct  1 04:55:41 10.71.53.15 u94763773 open "/img/famille1.jpg" flags READ mode 0666
+Oct  1 04:55:42 10.71.53.15 u94763773 open "/img/connex.jpg" flags READ mode 0666
+Oct  1 04:55:42 10.71.53.15 u94763773 close "/img/famille1.jpg" bytes read 116104 written 0
+Oct  1 04:55:42 10.71.53.15 u94763773 [10.71.53.15|get|1|116104|0|0|0|2f696d672f66616d696c6c65312e6a7067|]
+Oct  1 04:55:43 10.71.53.15 u94763773 close "/img/connex.jpg" bytes read 89035 written 0
+Oct  1 04:55:43 10.71.53.15 u94763773 [10.71.53.15|get|1|89035|0|0|0|2f696d672f636f6e6e65782e6a7067|]
+Oct  1 04:55:43 10.71.53.15 u94763773 open "/img/BAM-750x420.png" flags READ mode 0666
+Oct  1 04:55:44 10.71.53.15 u94763773 open "/img/alim.jpg" flags READ mode 0666
+Oct  1 04:55:46 10.71.53.15 u94763773 close "/img/alim.jpg" bytes read 123205 written 0
+Oct  1 04:55:46 10.71.53.15 u94763773 [10.71.53.15|get|2|123205|0|0|0|2f696d672f616c696d2e6a7067|]
+Oct  1 04:55:48 10.71.53.15 u94763773 close "/img/BAM-750x420.png" bytes read 775780 written 0
+Oct  1 04:55:48 10.71.53.15 u94763773 [10.71.53.15|get|5|775780|0|0|0|2f696d672f42414d2d373530783432302e706e67|]
+Oct  1 04:55:48 10.71.53.15 u94763773 open "/img/preloader.gif" flags READ mode 0666
+Oct  1 04:55:49 10.71.53.15 u94763773 open "/img/IMG-20180901-WA0022.jpg" flags READ mode 0666
+Oct  1 04:55:50 10.71.53.15 u94763773 close "/img/preloader.gif" bytes read 24953 written 0
+Oct  1 04:55:50 10.71.53.15 u94763773 [10.71.53.15|get|2|24953|0|0|0|2f696d672f7072656c6f616465722e676966|]
+Oct  1 04:55:51 10.71.53.15 u94763773 close "/img/IMG-20180901-WA0022.jpg" bytes read 17085 written 0
+Oct  1 04:55:51 10.71.53.15 u94763773 [10.71.53.15|get|2|17085|0|0|0|2f696d672f494d472d32303138303930312d5741303032322e6a7067|]
+Oct  1 04:55:52 10.71.53.15 u94763773 open "/img/IMG-20180814-WA0020.jpg" flags READ mode 0666
+Oct  1 04:55:53 10.71.53.15 u94763773 open "/img/IMG-20180814-WA0016.jpg" flags READ mode 0666
+Oct  1 04:55:53 10.71.53.15 u94763773 close "/img/IMG-20180814-WA0020.jpg" bytes read 56776 written 0
+Oct  1 04:55:53 10.71.53.15 u94763773 [10.71.53.15|get|1|56776|0|0|0|2f696d672f494d472d32303138303831342d5741303032302e6a7067|]
+Oct  1 04:55:54 10.71.53.15 u94763773 close "/img/IMG-20180814-WA0016.jpg" bytes read 21254 written 0
+Oct  1 04:55:54 10.71.53.15 u94763773 [10.71.53.15|get|1|21254|0|0|0|2f696d672f494d472d32303138303831342d5741303031362e6a7067|]
+Oct  1 04:55:54 10.71.53.15 u94763773 open "/img/h6.jpg" flags READ mode 0666
+Oct  1 04:55:55 10.71.53.15 u94763773 close "/img/h6.jpg" bytes read 33801 written 0
+Oct  1 04:55:55 10.71.53.15 u94763773 [10.71.53.15|get|1|33801|0|0|0|2f696d672f68362e6a7067|]
+Oct  1 04:55:55 10.71.53.15 u94763773 open "/img/h5.jpg" flags READ mode 0666
+Oct  1 04:55:57 10.71.53.15 u94763773 close "/img/h5.jpg" bytes read 34468 written 0
+Oct  1 04:55:57 10.71.53.15 u94763773 [10.71.53.15|get|2|34468|0|0|0|2f696d672f68352e6a7067|]
+Oct  1 04:55:57 10.71.53.15 u94763773 open "/img/h4.jpg" flags READ mode 0666
+Oct  1 04:55:58 10.71.53.15 u94763773 open "/img/h2.jpg" flags READ mode 0666
+Oct  1 04:55:58 10.71.53.15 u94763773 close "/img/h4.jpg" bytes read 13909 written 0
+Oct  1 04:55:58 10.71.53.15 u94763773 [10.71.53.15|get|1|13909|0|0|0|2f696d672f68342e6a7067|]
+Oct  1 04:56:00 10.71.53.15 u94763773 open "/img/h1.jpg" flags READ mode 0666
+Oct  1 04:56:00 10.71.53.15 u94763773 close "/img/h2.jpg" bytes read 33411 written 0
+Oct  1 04:56:00 10.71.53.15 u94763773 [10.71.53.15|get|2|33411|0|0|0|2f696d672f68322e6a7067|]
+Oct  1 04:56:01 10.71.53.15 u94763773 sent status No such file
+Oct  1 04:56:02 10.71.53.15 u94763773 close "/img/h1.jpg" bytes read 43212 written 0
+Oct  1 04:56:02 10.71.53.15 u94763773 [10.71.53.15|get|2|43212|0|0|0|2f696d672f68312e6a7067|]
+Oct  1 04:56:02 10.71.53.15 u94763773 open "/img/favicon.png" flags READ mode 0666
+Oct  1 04:56:03 10.71.53.15 u94763773 open "/img/fav.png" flags READ mode 0666
+Oct  1 04:56:04 10.71.53.15 u94763773 close "/img/favicon.png" bytes read 491 written 0
+Oct  1 04:56:04 10.71.53.15 u94763773 [10.71.53.15|get|2|491|0|0|0|2f696d672f66617669636f6e2e706e67|]
+Oct  1 04:56:04 10.71.53.15 u94763773 close "/img/fav.png" bytes read 1093 written 0
+Oct  1 04:56:04 10.71.53.15 u94763773 [10.71.53.15|get|1|1093|0|0|0|2f696d672f6661762e706e67|]
+Oct  1 04:56:05 10.71.53.15 u94763773 open "/img/BAM-750x4201.jpg" flags READ mode 0666
+Oct  1 04:56:06 10.71.53.15 u94763773 open "/img/apple-touch-icon.png" flags READ mode 0666
+Oct  1 04:56:07 10.71.53.15 u94763773 close "/img/BAM-750x4201.jpg" bytes read 137970 written 0
+Oct  1 04:56:07 10.71.53.15 u94763773 [10.71.53.15|get|2|137970|0|0|0|2f696d672f42414d2d37353078343230312e6a7067|]
+Oct  1 04:56:08 10.71.53.15 u94763773 close "/img/apple-touch-icon.png" bytes read 1738 written 0
+Oct  1 04:56:08 10.71.53.15 u94763773 [10.71.53.15|get|2|1738|0|0|0|2f696d672f6170706c652d746f7563682d69636f6e2e706e67|]
+Oct  1 04:56:08 10.71.53.15 u94763773 open "/img/9p371oucpb7ai5.jpg" flags READ mode 0666
+Oct  1 04:56:09 10.71.53.15 u94763773 close "/img/9p371oucpb7ai5.jpg" bytes read 72869 written 0
+Oct  1 04:56:09 10.71.53.15 u94763773 [10.71.53.15|get|1|72869|0|0|0|2f696d672f39703337316f75637062376169352e6a7067|]
+Oct  1 04:56:10 10.71.53.15 u94763773 open "/img/slider/slider3.jpg" flags READ mode 0666
+Oct  1 04:56:11 10.71.53.15 u94763773 close "/img/slider/slider3.jpg" bytes read 154844 written 0
+Oct  1 04:56:11 10.71.53.15 u94763773 [10.71.53.15|get|1|154844|0|0|0|2f696d672f736c696465722f736c69646572332e6a7067|]
+Oct  1 04:56:12 10.71.53.15 u94763773 open "/img/slider/slider2.jpg" flags READ mode 0666
+Oct  1 04:56:12 10.71.53.15 u94763773 open "/img/slider/slider1.jpg" flags READ mode 0666
+Oct  1 04:56:13 10.71.53.15 u94763773 close "/img/slider/slider2.jpg" bytes read 175835 written 0
+Oct  1 04:56:13 10.71.53.15 u94763773 [10.71.53.15|get|1|175835|0|0|0|2f696d672f736c696465722f736c69646572322e6a7067|]
+Oct  1 04:56:13 10.71.53.15 u94763773 close "/img/slider/slider1.jpg" bytes read 197583 written 0
+Oct  1 04:56:13 10.71.53.15 u94763773 [10.71.53.15|get|1|197583|0|0|0|2f696d672f736c696465722f736c69646572312e6a7067|]
+Oct  1 04:56:15 10.71.53.15 u94763773 open "/img/venubox/preload.png" flags READ mode 0666
+Oct  1 04:56:15 10.71.53.15 u94763773 open "/img/venubox/prev.gif" flags READ mode 0666
+Oct  1 04:56:16 10.71.53.15 u94763773 close "/img/venubox/preload.png" bytes read 15933 written 0
+Oct  1 04:56:16 10.71.53.15 u94763773 [10.71.53.15|get|1|15933|0|0|0|2f696d672f76656e75626f782f7072656c6f61642e706e67|]
+Oct  1 04:56:16 10.71.53.15 u94763773 close "/img/venubox/prev.gif" bytes read 1177 written 0
+Oct  1 04:56:16 10.71.53.15 u94763773 [10.71.53.15|get|1|1177|0|0|0|2f696d672f76656e75626f782f707265762e676966|]
+Oct  1 04:56:18 10.71.53.15 u94763773 open "/img/venubox/preload-quads.png" flags READ mode 0666
+Oct  1 04:56:18 10.71.53.15 u94763773 open "/img/venubox/preload-ios.png" flags READ mode 0666
+Oct  1 04:56:18 10.71.53.15 u94763773 close "/img/venubox/preload-quads.png" bytes read 11132 written 0
+Oct  1 04:56:18 10.71.53.15 u94763773 [10.71.53.15|get|0|11132|0|0|0|2f696d672f76656e75626f782f7072656c6f61642d71756164732e706e67|]
+Oct  1 04:56:20 10.71.53.15 u94763773 close "/img/venubox/preload-ios.png" bytes read 31122 written 0
+Oct  1 04:56:20 10.71.53.15 u94763773 [10.71.53.15|get|2|31122|0|0|0|2f696d672f76656e75626f782f7072656c6f61642d696f732e706e67|]
+Oct  1 04:56:20 10.71.53.15 u94763773 open "/img/venubox/preload-dots.png" flags READ mode 0666
+Oct  1 04:56:22 10.71.53.15 u94763773 open "/img/venubox/preload-circle.png" flags READ mode 0666
+Oct  1 04:56:22 10.71.53.15 u94763773 close "/img/venubox/preload-dots.png" bytes read 14158 written 0
+Oct  1 04:56:22 10.71.53.15 u94763773 [10.71.53.15|get|2|14158|0|0|0|2f696d672f76656e75626f782f7072656c6f61642d646f74732e706e67|]
+Oct  1 04:56:23 10.71.53.15 u94763773 close "/img/venubox/preload-circle.png" bytes read 15933 written 0
+Oct  1 04:56:23 10.71.53.15 u94763773 [10.71.53.15|get|1|15933|0|0|0|2f696d672f76656e75626f782f7072656c6f61642d636972636c652e706e67|]
+Oct  1 04:56:24 10.71.53.15 u94763773 open "/img/venubox/next.gif" flags READ mode 0666
+Oct  1 04:56:24 10.71.53.15 u94763773 close "/img/venubox/next.gif" bytes read 1177 written 0
+Oct  1 04:56:24 10.71.53.15 u94763773 [10.71.53.15|get|0|1177|0|0|0|2f696d672f76656e75626f782f6e6578742e676966|]
+Oct  1 04:56:24 10.71.53.15 u94763773 open "/img/venubox/close.gif" flags READ mode 0666
+Oct  1 04:56:26 10.71.53.15 u94763773 close "/img/venubox/close.gif" bytes read 1144 written 0
+Oct  1 04:56:26 10.71.53.15 u94763773 [10.71.53.15|get|2|1144|0|0|0|2f696d672f76656e75626f782f636c6f73652e676966|]
+Oct  1 04:56:28 10.71.53.15 u94763773 open "/js/wow.min.js" flags READ mode 0666
+Oct  1 04:56:30 10.71.53.15 u94763773 close "/js/wow.min.js" bytes read 3419 written 0
+Oct  1 04:56:30 10.71.53.15 u94763773 [10.71.53.15|get|2|3419|0|0|0|2f6a732f776f772e6d696e2e6a73|]
+Oct  1 04:56:31 10.71.53.15 u94763773 open "/js/jquery.prettyPhoto.js" flags READ mode 0666
+Oct  1 04:56:31 10.71.53.15 u94763773 open "/js/jquery.js" flags READ mode 0666
+Oct  1 04:56:32 10.71.53.15 u94763773 close "/js/jquery.prettyPhoto.js" bytes read 22060 written 0
+Oct  1 04:56:32 10.71.53.15 u94763773 [10.71.53.15|get|1|22060|0|0|0|2f6a732f6a71756572792e70726574747950686f746f2e6a73|]
+Oct  1 04:56:40 10.71.53.15 u94763773 open "/js/jquery.isotope.min.js" flags READ mode 0666
+Oct  1 04:56:41 10.71.53.15 u94763773 close "/js/jquery.js" bytes read 92980 written 0
+Oct  1 04:56:41 10.71.53.15 u94763773 [10.71.53.15|get|10|92980|0|0|0|2f6a732f6a71756572792e6a73|]
+Oct  1 04:56:41 10.71.53.15 u94763773 close "/js/jquery.isotope.min.js" bytes read 16033 written 0
+Oct  1 04:56:41 10.71.53.15 u94763773 [10.71.53.15|get|1|16033|0|0|0|2f6a732f6a71756572792e69736f746f70652e6d696e2e6a73|]
+Oct  1 04:56:42 10.71.53.15 u94763773 open "/js/jquery-2.1.1.min.js" flags READ mode 0666
+Oct  1 04:56:42 10.71.53.15 u94763773 open "/js/html5shiv.js" flags READ mode 0666
+Oct  1 04:56:43 10.71.53.15 u94763773 close "/js/jquery-2.1.1.min.js" bytes read 84245 written 0
+Oct  1 04:56:43 10.71.53.15 u94763773 [10.71.53.15|get|1|84245|0|0|0|2f6a732f6a71756572792d322e312e312e6d696e2e6a73|]
+Oct  1 04:56:43 10.71.53.15 u94763773 close "/js/html5shiv.js" bytes read 2376 written 0
+Oct  1 04:56:43 10.71.53.15 u94763773 [10.71.53.15|get|1|2376|0|0|0|2f6a732f68746d6c35736869762e6a73|]
+Oct  1 04:56:44 10.71.53.15 u94763773 open "/js/functions.js" flags READ mode 0666
+Oct  1 04:56:44 10.71.53.15 u94763773 open "/js/bootstrap.min.js" flags READ mode 0666
+Oct  1 04:56:45 10.71.53.15 u94763773 close "/js/functions.js" bytes read 1746 written 0
+Oct  1 04:56:45 10.71.53.15 u94763773 [10.71.53.15|get|1|1746|0|0|0|2f6a732f66756e6374696f6e732e6a73|]
+Oct  1 04:56:46 10.71.53.15 u94763773 open "/js/bootstrap.js" flags READ mode 0666
+Oct  1 04:56:46 10.71.53.15 u94763773 close "/js/bootstrap.min.js" bytes read 35601 written 0
+Oct  1 04:56:46 10.71.53.15 u94763773 [10.71.53.15|get|2|35601|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Oct  1 04:56:48 10.71.53.15 u94763773 close "/js/bootstrap.js" bytes read 65813 written 0
+Oct  1 04:56:48 10.71.53.15 u94763773 [10.71.53.15|get|2|65813|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Oct  1 04:56:49 10.71.53.15 u94763773 open "/js1/main.js" flags READ mode 0666
+Oct  1 04:56:51 10.71.53.15 u94763773 open "/lib/animate/animate.min.css" flags READ mode 0666
+Oct  1 04:56:51 10.71.53.15 u94763773 close "/js1/main.js" bytes read 5908 written 0
+Oct  1 04:56:51 10.71.53.15 u94763773 [10.71.53.15|get|2|5908|0|0|0|2f6a73312f6d61696e2e6a73|]
+Oct  1 04:56:52 10.71.53.15 u94763773 close "/lib/animate/animate.min.css" bytes read 16964 written 0
+Oct  1 04:56:52 10.71.53.15 u94763773 [10.71.53.15|get|1|16964|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e6d696e2e637373|]
+Oct  1 04:56:54 10.71.53.15 u94763773 open "/lib/animate/animate.css" flags READ mode 0666
+Oct  1 04:56:55 10.71.53.15 u94763773 open "/lib/appear/jquery.appear.js" flags READ mode 0666
+Oct  1 04:56:55 10.71.53.15 u94763773 close "/lib/animate/animate.css" bytes read 25427 written 0
+Oct  1 04:56:55 10.71.53.15 u94763773 [10.71.53.15|get|1|25427|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e637373|]
+Oct  1 04:56:56 10.71.53.15 u94763773 close "/lib/appear/jquery.appear.js" bytes read 4379 written 0
+Oct  1 04:56:56 10.71.53.15 u94763773 [10.71.53.15|get|1|4379|0|0|0|2f6c69622f6170706561722f6a71756572792e6170706561722e6a73|]
+Oct  1 04:56:57 10.71.53.15 u94763773 open "/lib/bootstrap/css/bootstrap.min.css" flags READ mode 0666
+Oct  1 04:56:58 10.71.53.15 u94763773 open "/lib/bootstrap/css/bootstrap.css" flags READ mode 0666
+Oct  1 04:56:59 10.71.53.15 u94763773 close "/lib/bootstrap/css/bootstrap.min.css" bytes read 121200 written 0
+Oct  1 04:56:59 10.71.53.15 u94763773 [10.71.53.15|get|2|121200|0|0|0|2f6c69622f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e637373|]
+Oct  1 04:57:01 10.71.53.15 u94763773 close "/lib/bootstrap/css/bootstrap.css" bytes read 146010 written 0
+Oct  1 04:57:01 10.71.53.15 u94763773 [10.71.53.15|get|3|146010|0|0|0|2f6c69622f626f6f7473747261702f6373732f626f6f7473747261702e637373|]
+Oct  1 04:57:02 10.71.53.15 u94763773 open "/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Oct  1 04:57:04 10.71.53.15 u94763773 open "/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Oct  1 04:57:04 10.71.53.15 u94763773 close "/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Oct  1 04:57:04 10.71.53.15 u94763773 [10.71.53.15|get|2|108738|0|0|0|2f6c69622f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Oct  1 04:57:05 10.71.53.15 u94763773 close "/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Oct  1 04:57:05 10.71.53.15 u94763773 [10.71.53.15|get|1|18028|0|0|0|2f6c69622f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Oct  1 04:57:05 10.71.53.15 u94763773 open "/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Oct  1 04:57:07 10.71.53.15 u94763773 open "/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Oct  1 04:57:07 10.71.53.15 u94763773 close "/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Oct  1 04:57:07 10.71.53.15 u94763773 [10.71.53.15|get|2|23424|0|0|0|2f6c69622f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Oct  1 04:57:08 10.71.53.15 u94763773 close "/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Oct  1 04:57:08 10.71.53.15 u94763773 [10.71.53.15|get|1|45404|0|0|0|2f6c69622f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Oct  1 04:57:08 10.71.53.15 u94763773 open "/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Oct  1 04:57:10 10.71.53.15 u94763773 close "/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Oct  1 04:57:10 10.71.53.15 u94763773 [10.71.53.15|get|2|20127|0|0|0|2f6c69622f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Oct  1 04:57:10 10.71.53.15 u94763773 open "/lib/bootstrap/js/bootstrap.min.js" flags READ mode 0666
+Oct  1 04:57:11 10.71.53.15 u94763773 close "/lib/bootstrap/js/bootstrap.min.js" bytes read 37045 written 0
+Oct  1 04:57:11 10.71.53.15 u94763773 [10.71.53.15|get|1|37045|0|0|0|2f6c69622f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a73|]
+Oct  1 04:57:12 10.71.53.15 u94763773 open "/lib/bootstrap/js/bootstrap.js" flags READ mode 0666
+Oct  1 04:57:14 10.71.53.15 u94763773 close "/lib/bootstrap/js/bootstrap.js" bytes read 69707 written 0
+Oct  1 04:57:14 10.71.53.15 u94763773 [10.71.53.15|get|2|69707|0|0|0|2f6c69622f626f6f7473747261702f6a732f626f6f7473747261702e6a73|]
+Oct  1 04:57:14 10.71.53.15 u94763773 open "/lib/easing/easing.min.js" flags READ mode 0666
+Oct  1 04:57:16 10.71.53.15 u94763773 close "/lib/easing/easing.min.js" bytes read 2303 written 0
+Oct  1 04:57:16 10.71.53.15 u94763773 [10.71.53.15|get|2|2303|0|0|0|2f6c69622f656173696e672f656173696e672e6d696e2e6a73|]
+Oct  1 04:57:18 10.71.53.15 u94763773 open "/lib/easing/easing.js" flags READ mode 0666
+Oct  1 04:57:28 10.71.53.15 u94763773 open "/lib/font-awesome/css/font-awesome.min.css" flags READ mode 0666
+Oct  1 04:57:28 10.71.53.15 u94763773 close "/lib/easing/easing.js" bytes read 4092 written 0
+Oct  1 04:57:28 10.71.53.15 u94763773 [10.71.53.15|get|10|4092|0|0|0|2f6c69622f656173696e672f656173696e672e6a73|]
+Oct  1 04:57:30 10.71.53.15 u94763773 close "/lib/font-awesome/css/font-awesome.min.css" bytes read 31000 written 0
+Oct  1 04:57:30 10.71.53.15 u94763773 [10.71.53.15|get|2|31000|0|0|0|2f6c69622f666f6e742d617765736f6d652f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Oct  1 04:57:31 10.71.53.15 u94763773 open "/lib/font-awesome/css/font-awesome.css" flags READ mode 0666
+Oct  1 04:57:33 10.71.53.15 u94763773 open "/lib/font-awesome/fonts/FontAwesome.otf" flags READ mode 0666
+Oct  1 04:57:34 10.71.53.15 u94763773 close "/lib/font-awesome/css/font-awesome.css" bytes read 37414 written 0
+Oct  1 04:57:34 10.71.53.15 u94763773 [10.71.53.15|get|3|37414|0|0|0|2f6c69622f666f6e742d617765736f6d652f6373732f666f6e742d617765736f6d652e637373|]
+Oct  1 04:57:36 10.71.53.15 u94763773 close "/lib/font-awesome/fonts/FontAwesome.otf" bytes read 134808 written 0
+Oct  1 04:57:36 10.71.53.15 u94763773 [10.71.53.15|get|3|134808|0|0|0|2f6c69622f666f6e742d617765736f6d652f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Oct  1 04:57:38 10.71.53.15 u94763773 open "/lib/font-awesome/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Oct  1 04:57:38 10.71.53.15 u94763773 open "/lib/font-awesome/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Oct  1 04:57:43 10.71.53.15 u94763773 close "/lib/font-awesome/fonts/fontawesome-webfont.ttf" bytes read 165548 written 0
+Oct  1 04:57:43 10.71.53.15 u94763773 [10.71.53.15|get|5|165548|0|0|0|2f6c69622f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Oct  1 04:57:45 10.71.53.15 u94763773 open "/lib/font-awesome/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Oct  1 04:57:45 10.71.53.15 u94763773 close "/lib/font-awesome/fonts/fontawesome-webfont.svg" bytes read 444379 written 0
+Oct  1 04:57:45 10.71.53.15 u94763773 [10.71.53.15|get|7|444379|0|0|0|2f6c69622f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Oct  1 04:57:47 10.71.53.15 u94763773 open "/lib/font-awesome/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Oct  1 04:57:48 10.71.53.15 u94763773 close "/lib/font-awesome/fonts/fontawesome-webfont.eot" bytes read 165742 written 0
+Oct  1 04:57:48 10.71.53.15 u94763773 [10.71.53.15|get|3|165742|0|0|0|2f6c69622f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Oct  1 04:57:49 10.71.53.15 u94763773 close "/lib/font-awesome/fonts/fontawesome-webfont.woff2" bytes read 77160 written 0
+Oct  1 04:57:49 10.71.53.15 u94763773 [10.71.53.15|get|2|77160|0|0|0|2f6c69622f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Oct  1 04:57:49 10.71.53.15 u94763773 open "/lib/font-awesome/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Oct  1 04:57:52 10.71.53.15 u94763773 close "/lib/font-awesome/fonts/fontawesome-webfont.woff" bytes read 98024 written 0
+Oct  1 04:57:52 10.71.53.15 u94763773 [10.71.53.15|get|3|98024|0|0|0|2f6c69622f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Oct  1 04:57:53 10.71.53.15 u94763773 open "/lib/isotope/isotope.pkgd.min.js" flags READ mode 0666
+Oct  1 04:57:55 10.71.53.15 u94763773 close "/lib/isotope/isotope.pkgd.min.js" bytes read 35503 written 0
+Oct  1 04:57:55 10.71.53.15 u94763773 [10.71.53.15|get|2|35503|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6d696e2e6a73|]
+Oct  1 04:57:55 10.71.53.15 u94763773 open "/lib/isotope/isotope.pkgd.js" flags READ mode 0666
+Oct  1 04:57:58 10.71.53.15 u94763773 close "/lib/isotope/isotope.pkgd.js" bytes read 91330 written 0
+Oct  1 04:57:58 10.71.53.15 u94763773 [10.71.53.15|get|3|91330|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6a73|]
+Oct  1 04:57:59 10.71.53.15 u94763773 open "/lib/jquery/jquery.min.js" flags READ mode 0666
+Oct  1 04:58:01 10.71.53.15 u94763773 close "/lib/jquery/jquery.min.js" bytes read 97163 written 0
+Oct  1 04:58:01 10.71.53.15 u94763773 [10.71.53.15|get|2|97163|0|0|0|2f6c69622f6a71756572792f6a71756572792e6d696e2e6a73|]
+Oct  1 04:58:01 10.71.53.15 u94763773 open "/lib/knob/jquery.knob.js" flags READ mode 0666
+Oct  1 04:58:03 10.71.53.15 u94763773 close "/lib/knob/jquery.knob.js" bytes read 27030 written 0
+Oct  1 04:58:03 10.71.53.15 u94763773 [10.71.53.15|get|2|27030|0|0|0|2f6c69622f6b6e6f622f6a71756572792e6b6e6f622e6a73|]
+Oct  1 04:58:04 10.71.53.15 u94763773 open "/lib/nivo-slider/css/nivo-slider.css" flags READ mode 0666
+Oct  1 04:58:06 10.71.53.15 u94763773 close "/lib/nivo-slider/css/nivo-slider.css" bytes read 8498 written 0
+Oct  1 04:58:06 10.71.53.15 u94763773 [10.71.53.15|get|2|8498|0|0|0|2f6c69622f6e69766f2d736c696465722f6373732f6e69766f2d736c696465722e637373|]
+Oct  1 04:58:06 10.71.53.15 u94763773 open "/lib/nivo-slider/img/loading.gif" flags READ mode 0666
+Oct  1 04:58:08 10.71.53.15 u94763773 close "/lib/nivo-slider/img/loading.gif" bytes read 1737 written 0
+Oct  1 04:58:08 10.71.53.15 u94763773 [10.71.53.15|get|2|1737|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f6c6f6164696e672e676966|]
+Oct  1 04:58:09 10.71.53.15 u94763773 open "/lib/nivo-slider/img/loading-2.gif" flags READ mode 0666
+Oct  1 04:58:10 10.71.53.15 u94763773 open "/lib/nivo-slider/img/bullets.png" flags READ mode 0666
+Oct  1 04:58:11 10.71.53.15 u94763773 close "/lib/nivo-slider/img/loading-2.gif" bytes read 1737 written 0
+Oct  1 04:58:11 10.71.53.15 u94763773 [10.71.53.15|get|2|1737|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f6c6f6164696e672d322e676966|]
+Oct  1 04:58:12 10.71.53.15 u94763773 close "/lib/nivo-slider/img/bullets.png" bytes read 1281 written 0
+Oct  1 04:58:12 10.71.53.15 u94763773 [10.71.53.15|get|2|1281|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f62756c6c6574732e706e67|]
+Oct  1 04:58:13 10.71.53.15 u94763773 open "/lib/nivo-slider/img/bullets-2.png" flags READ mode 0666
+Oct  1 04:58:14 10.71.53.15 u94763773 open "/lib/nivo-slider/img/arrow_right.svg" flags READ mode 0666
+Oct  1 04:58:15 10.71.53.15 u94763773 close "/lib/nivo-slider/img/bullets-2.png" bytes read 3146 written 0
+Oct  1 04:58:15 10.71.53.15 u94763773 [10.71.53.15|get|2|3146|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f62756c6c6574732d322e706e67|]
+Oct  1 04:58:15 10.71.53.15 u94763773 close "/lib/nivo-slider/img/arrow_right.svg" bytes read 324 written 0
+Oct  1 04:58:15 10.71.53.15 u94763773 [10.71.53.15|get|1|324|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f6172726f775f72696768742e737667|]
+Oct  1 04:58:17 10.71.53.15 u94763773 open "/lib/nivo-slider/img/arrow_left.svg" flags READ mode 0666
+Oct  1 04:58:17 10.71.53.15 u94763773 open "/lib/nivo-slider/img/arrows.png" flags READ mode 0666
+Oct  1 04:58:19 10.71.53.15 u94763773 close "/lib/nivo-slider/img/arrow_left.svg" bytes read 325 written 0
+Oct  1 04:58:19 10.71.53.15 u94763773 [10.71.53.15|get|2|325|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f6172726f775f6c6566742e737667|]
+Oct  1 04:58:20 10.71.53.15 u94763773 close "/lib/nivo-slider/img/arrows.png" bytes read 824 written 0
+Oct  1 04:58:20 10.71.53.15 u94763773 [10.71.53.15|get|3|824|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f6172726f77732e706e67|]
+Oct  1 04:58:28 10.71.53.15 u94763773 open "/lib/nivo-slider/img/arrows-2.png" flags READ mode 0666
+Oct  1 04:58:29 10.71.53.15 u94763773 close "/lib/nivo-slider/img/arrows-2.png" bytes read 3088 written 0
+Oct  1 04:58:29 10.71.53.15 u94763773 [10.71.53.15|get|1|3088|0|0|0|2f6c69622f6e69766f2d736c696465722f696d672f6172726f77732d322e706e67|]
+Oct  1 04:58:30 10.71.53.15 u94763773 open "/lib/nivo-slider/js/jquery.nivo.slider.js" flags READ mode 0666
+Oct  1 04:58:33 10.71.53.15 u94763773 open "/lib/owlcarousel/owl.transitions.css" flags READ mode 0666
+Oct  1 04:58:33 10.71.53.15 u94763773 close "/lib/nivo-slider/js/jquery.nivo.slider.js" bytes read 59548 written 0
+Oct  1 04:58:33 10.71.53.15 u94763773 [10.71.53.15|get|3|59548|0|0|0|2f6c69622f6e69766f2d736c696465722f6a732f6a71756572792e6e69766f2e736c696465722e6a73|]
+Oct  1 04:58:35 10.71.53.15 u94763773 close "/lib/owlcarousel/owl.transitions.css" bytes read 4476 written 0
+Oct  1 04:58:35 10.71.53.15 u94763773 [10.71.53.15|get|2|4476|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e7472616e736974696f6e732e637373|]
+Oct  1 04:58:36 10.71.53.15 u94763773 open "/lib/owlcarousel/owl.carousel.css" flags READ mode 0666
+Oct  1 04:58:36 10.71.53.15 u94763773 open "/lib/owlcarousel/owl.carousel.min.js" flags READ mode 0666
+Oct  1 04:58:38 10.71.53.15 u94763773 close "/lib/owlcarousel/owl.carousel.css" bytes read 4614 written 0
+Oct  1 04:58:38 10.71.53.15 u94763773 [10.71.53.15|get|2|4614|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e637373|]
+Oct  1 04:58:38 10.71.53.15 u94763773 close "/lib/owlcarousel/owl.carousel.min.js" bytes read 40401 written 0
+Oct  1 04:58:38 10.71.53.15 u94763773 [10.71.53.15|get|2|40401|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6d696e2e6a73|]
+Oct  1 04:58:41 10.71.53.15 u94763773 open "/lib/parallax/parallax.js" flags READ mode 0666
+Oct  1 04:58:45 10.71.53.15 u94763773 open "/lib/venobox/venobox.min.js" flags READ mode 0666
+Oct  1 04:58:46 10.71.53.15 u94763773 close "/lib/parallax/parallax.js" bytes read 1839 written 0
+Oct  1 04:58:46 10.71.53.15 u94763773 [10.71.53.15|get|5|1839|0|0|0|2f6c69622f706172616c6c61782f706172616c6c61782e6a73|]
+Oct  1 04:58:47 10.71.53.15 u94763773 close "/lib/venobox/venobox.min.js" bytes read 11184 written 0
+Oct  1 04:58:47 10.71.53.15 u94763773 [10.71.53.15|get|2|11184|0|0|0|2f6c69622f76656e6f626f782f76656e6f626f782e6d696e2e6a73|]
+Oct  1 04:58:49 10.71.53.15 u94763773 open "/lib/venobox/venobox.css" flags READ mode 0666
+Oct  1 04:58:49 10.71.53.15 u94763773 open "/lib/wow/wow.min.js" flags READ mode 0666
+Oct  1 04:58:50 10.71.53.15 u94763773 close "/lib/venobox/venobox.css" bytes read 19877 written 0
+Oct  1 04:58:50 10.71.53.15 u94763773 [10.71.53.15|get|1|19877|0|0|0|2f6c69622f76656e6f626f782f76656e6f626f782e637373|]
+Oct  1 04:58:51 10.71.53.15 u94763773 close "/lib/wow/wow.min.js" bytes read 8159 written 0
+Oct  1 04:58:51 10.71.53.15 u94763773 [10.71.53.15|get|2|8159|0|0|0|2f6c69622f776f772f776f772e6d696e2e6a73|]
+Oct  1 04:58:53 10.71.53.15 u94763773 open "/lib/wow/wow.js" flags READ mode 0666
+Oct  1 04:58:54 10.71.53.15 u94763773 open "/logs/access.log.38.gz" flags READ mode 0666
+Oct  1 04:58:54 10.71.53.15 u94763773 close "/lib/wow/wow.js" bytes read 17059 written 0
+Oct  1 04:58:54 10.71.53.15 u94763773 [10.71.53.15|get|1|17059|0|0|0|2f6c69622f776f772f776f772e6a73|]
+Oct  1 04:58:55 10.71.53.15 u94763773 close "/logs/access.log.38.gz" bytes read 5631 written 0
+Oct  1 04:58:55 10.71.53.15 u94763773 [10.71.53.15|get|1|5631|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e677a|]
+Oct  1 04:58:57 10.71.53.15 u94763773 open "/logs/access.log.39.7.gz" flags READ mode 0666
+Oct  1 04:58:57 10.71.53.15 u94763773 open "/logs/ftp.log.39.gz" flags READ mode 0666
+Oct  1 04:59:00 10.71.53.15 u94763773 close "/logs/ftp.log.39.gz" bytes read 2575 written 0
+Oct  1 04:59:00 10.71.53.15 u94763773 [10.71.53.15|get|3|2575|0|0|0|2f6c6f67732f6674702e6c6f672e33392e677a|]
+Oct  1 04:59:00 10.71.53.15 u94763773 close "/logs/access.log.39.7.gz" bytes read 2440 written 0
+Oct  1 04:59:00 10.71.53.15 u94763773 [10.71.53.15|get|3|2440|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e372e677a|]
+Oct  1 04:59:02 10.71.53.15 u94763773 open "/logs/access.log.39.6.gz" flags READ mode 0666
+Oct  1 04:59:02 10.71.53.15 u94763773 open "/logs/access.log.39.5.gz" flags READ mode 0666
+Oct  1 04:59:03 10.71.53.15 u94763773 close "/logs/access.log.39.6.gz" bytes read 8919 written 0
+Oct  1 04:59:03 10.71.53.15 u94763773 [10.71.53.15|get|1|8919|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e362e677a|]
+Oct  1 04:59:04 10.71.53.15 u94763773 close "/logs/access.log.39.5.gz" bytes read 3097 written 0
+Oct  1 04:59:04 10.71.53.15 u94763773 [10.71.53.15|get|2|3097|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e352e677a|]
+Oct  1 04:59:04 10.71.53.15 u94763773 open "/logs/access.log.39.4.gz" flags READ mode 0666
+Oct  1 04:59:05 10.71.53.15 u94763773 open "/logs/access.log.39.3.gz" flags READ mode 0666
+Oct  1 04:59:06 10.71.53.15 u94763773 close "/logs/access.log.39.4.gz" bytes read 2234 written 0
+Oct  1 04:59:06 10.71.53.15 u94763773 [10.71.53.15|get|2|2234|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e342e677a|]
+Oct  1 04:59:07 10.71.53.15 u94763773 close "/logs/access.log.39.3.gz" bytes read 1921 written 0
+Oct  1 04:59:07 10.71.53.15 u94763773 [10.71.53.15|get|2|1921|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e332e677a|]
+Oct  1 04:59:09 10.71.53.15 u94763773 open "/logs/access.log.39.2.gz" flags READ mode 0666
+Oct  1 04:59:09 10.71.53.15 u94763773 open "/logs/access.log.39.1.gz" flags READ mode 0666
+Oct  1 04:59:11 10.71.53.15 u94763773 close "/logs/access.log.39.2.gz" bytes read 1908 written 0
+Oct  1 04:59:11 10.71.53.15 u94763773 [10.71.53.15|get|2|1908|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e322e677a|]
+Oct  1 04:59:12 10.71.53.15 u94763773 close "/logs/access.log.39.1.gz" bytes read 1276 written 0
+Oct  1 04:59:12 10.71.53.15 u94763773 [10.71.53.15|get|3|1276|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e312e677a|]
+Oct  1 04:59:12 10.71.53.15 u94763773 open "/logs/access.log.37.gz" flags READ mode 0666
+Oct  1 04:59:13 10.71.53.15 u94763773 open "/logs/access.log.40.1" flags READ mode 0666
+Oct  1 04:59:14 10.71.53.15 u94763773 close "/logs/access.log.37.gz" bytes read 14426 written 0
+Oct  1 04:59:14 10.71.53.15 u94763773 [10.71.53.15|get|2|14426|0|0|0|2f6c6f67732f6163636573732e6c6f672e33372e677a|]
+Oct  1 04:59:15 10.71.53.15 u94763773 open "/logs/access.log.36.gz" flags READ mode 0666
+Oct  1 04:59:15 10.71.53.15 u94763773 close "/logs/access.log.40.1" bytes read 14379 written 0
+Oct  1 04:59:15 10.71.53.15 u94763773 [10.71.53.15|get|2|14379|0|0|0|2f6c6f67732f6163636573732e6c6f672e34302e31|]
+Oct  1 04:59:17 10.71.53.15 u94763773 close "/logs/access.log.36.gz" bytes read 6723 written 0
+Oct  1 04:59:17 10.71.53.15 u94763773 [10.71.53.15|get|2|6723|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Oct  1 04:59:17 10.71.53.15 u94763773 open "/logs/sftp.log.37.gz" flags READ mode 0666
+Oct  1 04:59:19 10.71.53.15 u94763773 open "/logs/sftp.log" flags READ mode 0666
+Oct  1 04:59:19 10.71.53.15 u94763773 close "/logs/sftp.log.37.gz" bytes read 38294 written 0
+Oct  1 04:59:19 10.71.53.15 u94763773 [10.71.53.15|get|2|38294|0|0|0|2f6c6f67732f736674702e6c6f672e33372e677a|]
