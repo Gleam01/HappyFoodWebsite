@@ -11,7 +11,7 @@
       'root',
       'phreakerSmart[]{}',
       array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)
-      );
+    );
 
   } catch (Exception $e) {
     die('Erreur : '.$e->getMessage());
@@ -22,7 +22,7 @@
     return $dao->query('SELECT * FROM user WHERE idUser='.$id)->fetch();  
   }
 
-  function getUserIdByLogin($login)
+  function getUserIdByLogin($database, $login)
   {
     $request = $database->prepare('SELECT idUser from user WHERE login = ?');
     $request->execute(array($login));

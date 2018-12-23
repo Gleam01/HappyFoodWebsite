@@ -1,6 +1,6 @@
 <?php
   session_start();
-//  if (!isset($_SESSION['login']) || (isset($_SESSION['login']) && $_SESSION['login'] !="admin1") || (isset($_SESSION['login']) && $_SESSION['login'] !="admin2") || (isset($_SESSION['login']) && $_SESSION['login'] !="admin3")) header('Location: http://admin.happyfoodforlife.com/users.php');
+//  if (!isset($_SESSION['login']) || (isset($_SESSION['login']) && $_SESSION['login'] !="admin1") || (isset($_SESSION['login']) && $_SESSION['login'] !="admin2") || (isset($_SESSION['login']) && $_SESSION['login'] !="admin3")) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/users.php');
 ?>
 <!DOCTYPE html>
 <html lang="fr">

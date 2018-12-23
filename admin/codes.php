@@ -1,7 +1,7 @@
 <?php
   session_start();
-  if (!isset($_SESSION['login'])) header('Location: http://admin.happyfoodforlife.com/');
-  if ($_SESSION['role'] != 1) header('Location: http://admin.happyfoodforlife.com/users.php');
+  if (!isset($_SESSION['login'])) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
+  if ($_SESSION['role'] != 1) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/users.php');
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -118,7 +118,7 @@
           var dataString = 'nombre=' + $('#nombre').val();
           $.ajax({
             type: 'POST',
-            url: 'http://admin.happyfoodforlife.com/genere_code.php',
+            url: 'http://localhost/Web_Projects/HappyFoodWebsite/admin/genere_code.php',
             data: dataString,
             success: function(data) {
               if (data == 0) {
@@ -147,7 +147,7 @@
           console.log(dataString);
           $.ajax({
             type: 'POST',
-            url: 'http://admin.happyfoodforlife.com/sell.php',
+            url: 'http://localhost/Web_Projects/HappyFoodWebsite/admin/sell.php',
             data: dataString,
             success: function(data) {
               if (data == 0) {
@@ -173,7 +173,7 @@
             console.log(dataString);
             $.ajax({
               type: 'POST',
-              url: 'http://admin.happyfoodforlife.com/sell.php',
+              url: 'http://localhost/Web_Projects/HappyFoodWebsite/admin/sell.php',
               data: dataString,
               success: function(data) {
                 if (data == 0) {

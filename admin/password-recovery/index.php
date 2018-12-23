@@ -55,7 +55,7 @@ if(isset($_POST['recup_submit'], $_POST['recup_mail'])) {
           </body>
         </html>';
         mail($recup_mail, "Récupération de mot de passe - happyfoodforlife.com/admin", $message, $header);
-        header("Location: http://admin.happyfoodforlife.com/password-recovery/index.php?section=code");
+        header("Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/password-recovery/index.php?section=code");
       }
       else {
         $error = "Cette adresse mail n'est pas enregistrée";
@@ -79,7 +79,7 @@ if(isset($_POST['verif_submit'],$_POST['verif_code'])) {
     if($verif_req == 1) {
       $up_req = $database->prepare('UPDATE recuperation SET confirme = 1 WHERE mail = ?');
       $up_req->execute(array($_SESSION['recup_mail']));
-      header('Location: http://admin.happyfoodforlife.com/password-recovery/index.php?section=changemdp');
+      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/password-recovery/index.php?section=changemdp');
     }
     else {
       $error = "Code invalide";
@@ -105,7 +105,7 @@ if(isset($_POST['change_submit'])) {
           $ins_mdp->execute(array(password_hash(strip_tags($mdp), PASSWORD_DEFAULT), $_SESSION['recup_mail']));
           $del_req = $database->prepare('DELETE FROM recuperation WHERE mail = ?');
           $del_req->execute(array($_SESSION['recup_mail']));
-          header('Location: http://admin.happyfoodforlife.com/password-recovery/index.php');
+          header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/password-recovery/index.php');
         }
         else {
           $error = "Vos mots de passes ne correspondent pas";

@@ -14,4 +14,4 @@
   }
 
   session_destroy();
-  header('Location: http://admin.happyfoodforlife.com/');
+  header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');

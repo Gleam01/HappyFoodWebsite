@@ -52,19 +52,21 @@
             $query_count = $query->rowCount();
             if ($query_count == 1) {
                 $godsonNbGene1 = $query->fetch();
-                $godsonNbGene1 = $godsonNbGene1['nbGene1'];
-                $formatedGodsonsToSort = array_merge($formatedGodsonsToSort, [
-                    'idUser' => $godson['User_idUser'],
+                $godsonNbGene1 = intval($godsonNbGene1['nbGene1']);
+                $formatedGodsonsToSort = array_merge($formatedGodsonsToSort, [[
+                    'idUser' => intval($godson['User_idUser']),
                     'nbGene1' => $godsonNbGene1
-                ]);
+                ]]);
             }
             else {
-                $formatedGodsonsToSort = array_merge($formatedGodsonsToSort, [
+                $formatedGodsonsToSort = array_merge($formatedGodsonsToSort, [[
                     'idUser' => $godson['User_idUser'],
                     'nbGene1' => 0
-                ]);
+                ]]);
             }
         }
+        echo "format";
+        var_dump($formatedGodsonsToSort);
         return $formatedGodsonsToSort;
     }
 
@@ -72,8 +74,9 @@
     {
         $nbGeneArray = array();
         foreach ($data as $key => $value)
-            $nbGeneArray[$key] = $value['nbGene1'];
+            $nbGeneArray[] = $value['nbGene1'];
         sort($nbGeneArray);
+        echo "sorting issue";
         echo "<pre>";
         print_r($nbGeneArray);
         echo "</pre>";
@@ -83,7 +86,7 @@
     function get_first_who_has_this_miniNbGene($mini_nbgene, $data)
     {
         foreach ($data as $key => $value) {
-            if($value['nbGene1']==$mini_nbgene) return $value['idUser'];
+            if($value['nbGene1']==$mini_nbgene) return intval($value['idUser']);
         }
     }
  

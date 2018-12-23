@@ -1,6 +1,6 @@
 <?php
   session_start();
-  if (!isset($_SESSION['login'])) header('Location: http://admin.happyfoodforlife.com/');
+  if (!isset($_SESSION['login'])) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
 ?>
 <!DOCTYPE html>
 <html lang="fr">

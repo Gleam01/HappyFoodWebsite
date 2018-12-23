@@ -20,23 +20,23 @@
   require 'connect_db.php';
   if (isset($_POST['password'])) {
     $password = strip_tags($_POST['password']);
-    $query = $database->prepare('SELECT login, password FROM admins WHERE login=?');
+    $query = $database->prepare('SELECT login, password FROM user WHERE login=?');
     $query->execute(array($_SESSION['login']));
     $data = $query->fetch();
     var_dump($data);
     if ($data) {
       if (password_verify($password, $data['password'])) {
-        header('Location: http://admin.happyfoodforlife.com/codes.php');
+        header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/codes.php');
       }
       else {
         logout();
-        header('Location: http://admin.happyfoodforlife.com/index.php?status=-1');
+        header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/index.php?status=-1');
       }
     }
     else {
       logout();
-      header('Location: http://admin.happyfoodforlife.com/index.php?status=-1');
+      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/index.php?status=-1');
     }
   }
-  else header('Location: http://admin.happyfoodforlife.com/validate.php?status=0');
+  else header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/validate.php?status=0');
 ?>

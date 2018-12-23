@@ -3,7 +3,7 @@
   if (!isset($_SESSION['login'], $_SESSION['role']) || $_SESSION['role'] != 1 ) {
     $_SESSION = array();
     session_destroy();
-    header('Location: http://admin.happyfoodforlife.com/index.php?status=-2');
+    header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/index.php?status=-2');
   }
 ?>
 <!DOCTYPE html>
@@ -12,12 +12,7 @@
     <?php include_once 'head.php'; ?>
   </head>
   <body>
-    <header id="default" class="row bg-light">
-      <h1 class="col-sm-4"> <span>Happy</span>FOOD </h1>
-      <h1 class="col-sm-8 text-right">
-        BACK - END <span>PANEL</span>
-      </h1>
-    </header>
+    <?php include_once 'header.php'; ?>
 
     <section id="content" class="row">
       <div class="w-50 mx-auto">

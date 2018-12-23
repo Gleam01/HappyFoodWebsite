@@ -11,13 +11,13 @@
     $upated = $req->execute(array($_POST['parrainId'], $_POST['stepId']));
     if ($upated>0) {
       $user = getUserById($database, $_POST['parrainId']);
-      header('Location: http://admin.happyfoodforlife.com/compensations.php?lastName='.$user['lastName'].'&firstName='.$user['lastName'].'&step='.$_POST['stepId']);
+      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/compensations.php?lastName='.$user['lastName'].'&firstName='.$user['lastName'].'&step='.$_POST['stepId']);
     }
     else {
-      header('Location: http://admin.happyfoodforlife.com/compensations.php?error=0');
+      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/compensations.php?error=0');
     }
   }
   else {
-      header('Location: http://admin.happyfoodforlife.com/compensations.php?error=0');
+      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/compensations.php?error=0');
   }
 ?>

@@ -1,6 +1,6 @@
 <?php
   session_start();
-  if (!isset($_SESSION['login'])) header('Location: http://admin.happyfoodforlife.com/');
+  if (!isset($_SESSION['login'])) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -28,7 +28,6 @@
           $start_page = 1;
           $next_page = $current_page + 1;
           $previous_page = $current_page - 1;
-
           $get_query = $database->query("SELECT * FROM user LIMIT $per_page OFFSET $start");
         ?>
         <h2>Liste des utilisateurs inscrits sur la plateforme</h2>

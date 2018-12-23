@@ -1,6 +1,10 @@
 <?php
   session_start();
-  if (!isset($_SESSION['login']) || (isset($_SESSION['login']) && $_SESSION['login'] !="admin1") || (isset($_SESSION['login']) && $_SESSION['login'] !="admin2") || (isset($_SESSION['login']) && $_SESSION['login'] !="admin3")) header('Location: http://admin.happyfoodforlife.com/users.php');
+  if (!isset($_SESSION['login'])) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
+  elseif (isset($_SESSION['login'])) {
+    if (!$_SESSION['add_godson'])
+      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/users.php');
+  }
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -15,24 +19,23 @@
       <?php
         include_once 'connect_db.php';
         include_once 'manage_genealogy.php';
-        $idUser = getUserIdByLogin($_SESSION['login']);
+        $idUser = getUserIdByLogin($database, $_SESSION['login']);
         $result = toWhomToAdd($database, $idUser, $_SESSION['login']);
-        if($result == -1) echo '<p class="col-12 text-danger">Un problème est survenu ! Réessayez...</p>';
-        else 
+        if(is_string($result)) echo '<p class="col-12 text-danger text-center">'. $result .'</p>';
+        elseif(is_int($result))
         {
             var_dump($result);
-            if ($result[0]['nbGene1'] < 3) {
-                $user = getUserById($database, $result['idUser'])?>
+            $user = getUserById($database, $result);?>
                 <p class="col-12 text-success">
-                    Après analyse optimisée de la généalogie, il serait optimable d'ajouter le filleul au parrain suivant : <br>
-                    Nom du parrain : <?=$user['lastName']?> <br>
-                    Prénom du parrain : <?=$user['firstName']?> <br>
-                    <a class="col-2 m-3 btn btn-primary" href="godson_add_form.php?option=<?=$user['idUser']?>">Procédez à l'ajout</a>
+                  Après analyse optimisée de la généalogie, il serait optimable d'ajouter le filleul au parrain suivant : <br>
+                  Pseudo du parrain : <?=$user['login']?> <br>
+                  Nom du parrain : <?=$user['lastName']?> <br>
+                  Prénom du parrain : <?=$user['firstName']?>
                 </p>
-            <?php } elseif (condition) {
-                # code...
-            }
-        }
+            <?php } else {
+            var_dump($result);
+            echo "else";
+          }
       ?>
       </div>
     </section>
