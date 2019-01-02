@@ -26,17 +26,17 @@
     var_dump($data);
     if ($data) {
       if (password_verify($password, $data['password'])) {
-        header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/codes.php');
+        header('Location: http://localhost/HappyFoodWebsite/admin/codes.php');
       }
       else {
         logout();
-        header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/index.php?status=-1');
+        header('Location: http://localhost/HappyFoodWebsite/admin/index.php?status=-1');
       }
     }
     else {
       logout();
-      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/index.php?status=-1');
+      header('Location: http://localhost/HappyFoodWebsite/admin/index.php?status=-1');
     }
   }
-  else header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/validate.php?status=0');
+  else header('Location: http://localhost/HappyFoodWebsite/admin/validate.php?status=0');
 ?>

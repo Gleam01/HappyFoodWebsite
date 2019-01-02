@@ -3,7 +3,7 @@
   if (!isset($_SESSION['login'], $_SESSION['role']) || $_SESSION['role'] != 1 ) {
     $_SESSION = array();
     session_destroy();
-    header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/index.php?status=-2');
+    header('Location: http://localhost/HappyFoodWebsite/admin/index.php?status=-2');
   }
 ?>
 <!DOCTYPE html>

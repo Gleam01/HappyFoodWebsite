@@ -85,7 +85,7 @@
               <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation"><a href="index.html">Accueil</a></li>
                 <li role="presentation"><a href="about.html">A propos</a></li>
-                <li role="presentation"><a href="services.html">Notre application</a></li>
+                <li role="presentation"><a href="services.html#app">Notre application</a></li>
                 <li role="presentation"><a href="portfolio.html">Plan de compensation</a></li>
                 <li role="presentation"><a href="contacts.php" class="active">Nous contacter</a></li>
               </ul>
@@ -154,8 +154,6 @@
           <div class="col-md-4">
             <ul class="social-network">
               <li><a href="#" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#" class="linkedin tool-tip" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
             </ul>
           </div>
         </div>

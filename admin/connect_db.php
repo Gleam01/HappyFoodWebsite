@@ -9,7 +9,7 @@
     $database = new PDO(
       'mysql:host=localhost:3306;dbname=HappyFood;charset=utf8',
       'root',
-      'phreakerSmart[]{}',
+      'phreaker01SmartHARY&',
       array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)
     );
 

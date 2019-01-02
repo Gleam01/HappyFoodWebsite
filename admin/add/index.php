@@ -1,6 +1,6 @@
 <?php
   session_start();
-  if (!isset($_SESSION['login']) && $_SESSION['login'] !== "SmartDev" || !isset($_SESSION['login']) && $_SESSION['role'] != 1) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
+  if (!isset($_SESSION['login']) && $_SESSION['login'] !== "SmartDev" || !isset($_SESSION['login']) && $_SESSION['role'] != 1) header('Location: http://localhost/HappyFoodWebsite/admin/');
 ?>
 <!DOCTYPE html>
 <html lang="fr">

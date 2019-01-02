@@ -14,4 +14,4 @@
   }
 
   session_destroy();
-  header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
+  header('Location: http://localhost/HappyFoodWebsite/admin/');

@@ -12,7 +12,7 @@
             if($miniNbGene >=0 && $miniNbGene < 3) return get_first_who_has_this_miniNbGene($miniNbGene, $toSort);
             elseif($miniNbGene == 3) {
                 incrementGeneFocus($pdo, $id);
-                toWhomToAdd($pdo, $id, $login);
+                return toWhomToAdd($pdo, $id, $login);
             }
         }
     }
@@ -60,12 +60,12 @@
             }
             else {
                 $formatedGodsonsToSort = array_merge($formatedGodsonsToSort, [[
-                    'idUser' => $godson['User_idUser'],
+                    'idUser' => intval($godson['User_idUser']),
                     'nbGene1' => 0
                 ]]);
             }
         }
-        echo "format";
+        echo "format \n";
         var_dump($formatedGodsonsToSort);
         return $formatedGodsonsToSort;
     }

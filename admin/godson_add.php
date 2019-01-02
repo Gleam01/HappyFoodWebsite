@@ -1,9 +1,9 @@
 <?php
   session_start();
-  if (!isset($_SESSION['login'])) header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/');
+  if (!isset($_SESSION['login'])) header('Location: http://localhost/HappyFoodWebsite/admin/');
   elseif (isset($_SESSION['login'])) {
     if (!$_SESSION['add_godson'])
-      header('Location: http://localhost/Web_Projects/HappyFoodWebsite/admin/users.php');
+      header('Location: http://localhost/HappyFoodWebsite/admin/users.php');
   }
 ?>
 <!DOCTYPE html>

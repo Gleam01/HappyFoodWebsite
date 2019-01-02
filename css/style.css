@@ -64,6 +64,10 @@ a:hover {
 	color:#333;
 }
 
+.text-primary {
+  color: #1BBD36;
+}
+
 .btn-default {
   color: #333;
   background-color: #fff;
